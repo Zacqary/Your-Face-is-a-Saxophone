@@ -1,0 +1,3688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ozxmlscene>
+<ozml version="4.0">
+
+<factory id="1" uuid="66fc0d6af6a911d6a7a7000393670732">
+	<description>Image</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+
+<build></build>
+
+<description></description>
+
+<canvas>
+	<layout>1</layout>
+	<activeView>0</activeView>
+</canvas>
+
+<viewer subview="0">
+	<resolutionMode>0</resolutionMode>
+	<viewmode>1</viewmode>
+	<overlayOptions>117516</overlayOptions>
+	<oscOptions>14</oscOptions>
+	<compensateAspectRatio>1</compensateAspectRatio>
+	<floatPreview>1</floatPreview>
+	<renderFields>0</renderFields>
+	<showMotionBlur>0</showMotionBlur>
+	<showFrameBlending>1</showFrameBlending>
+	<showLighting>1</showLighting>
+	<showShadows>1</showShadows>
+	<showReflection>1</showReflection>
+	<showDepthOfField>0</showDepthOfField>
+	<renderFullView>0</renderFullView>
+	<renderQuality>2</renderQuality>
+	<textRenderQuality>2</textRenderQuality>
+	<showHighQualityResampling>0</showHighQualityResampling>
+	<showShapeAntialiasing>1</showShapeAntialiasing>
+	<show3DIntersectionAntialiasing>0</show3DIntersectionAntialiasing>
+	<useFloatMovies>0</useFloatMovies>
+	<cameraType>0</cameraType>
+	<cameraName>Active Camera</cameraName>
+	<panZoom camera="0" zoom="1" panX="44" panY="53" mode="1" centered="0"/>
+</viewer>
+<viewer subview="1">
+	<resolutionMode>0</resolutionMode>
+	<viewmode>0</viewmode>
+	<overlayOptions>117516</overlayOptions>
+	<oscOptions>14</oscOptions>
+	<compensateAspectRatio>1</compensateAspectRatio>
+	<floatPreview>1</floatPreview>
+	<renderFields>0</renderFields>
+	<showMotionBlur>0</showMotionBlur>
+	<showFrameBlending>1</showFrameBlending>
+	<showLighting>1</showLighting>
+	<showShadows>1</showShadows>
+	<showReflection>1</showReflection>
+	<showDepthOfField>0</showDepthOfField>
+	<renderFullView>0</renderFullView>
+	<renderQuality>2</renderQuality>
+	<textRenderQuality>2</textRenderQuality>
+	<showHighQualityResampling>0</showHighQualityResampling>
+	<showShapeAntialiasing>1</showShapeAntialiasing>
+	<show3DIntersectionAntialiasing>0</show3DIntersectionAntialiasing>
+	<useFloatMovies>0</useFloatMovies>
+	<cameraType>1</cameraType>
+	<cameraName></cameraName>
+</viewer>
+<viewer subview="2">
+	<resolutionMode>0</resolutionMode>
+	<viewmode>0</viewmode>
+	<overlayOptions>117516</overlayOptions>
+	<oscOptions>14</oscOptions>
+	<compensateAspectRatio>1</compensateAspectRatio>
+	<floatPreview>1</floatPreview>
+	<renderFields>0</renderFields>
+	<showMotionBlur>0</showMotionBlur>
+	<showFrameBlending>1</showFrameBlending>
+	<showLighting>1</showLighting>
+	<showShadows>1</showShadows>
+	<showReflection>1</showReflection>
+	<showDepthOfField>0</showDepthOfField>
+	<renderFullView>0</renderFullView>
+	<renderQuality>2</renderQuality>
+	<textRenderQuality>2</textRenderQuality>
+	<showHighQualityResampling>0</showHighQualityResampling>
+	<showShapeAntialiasing>1</showShapeAntialiasing>
+	<show3DIntersectionAntialiasing>0</show3DIntersectionAntialiasing>
+	<useFloatMovies>0</useFloatMovies>
+	<cameraType>1</cameraType>
+	<cameraName></cameraName>
+</viewer>
+<viewer subview="3">
+	<resolutionMode>0</resolutionMode>
+	<viewmode>0</viewmode>
+	<overlayOptions>117516</overlayOptions>
+	<oscOptions>14</oscOptions>
+	<compensateAspectRatio>1</compensateAspectRatio>
+	<floatPreview>1</floatPreview>
+	<renderFields>0</renderFields>
+	<showMotionBlur>0</showMotionBlur>
+	<showFrameBlending>1</showFrameBlending>
+	<showLighting>1</showLighting>
+	<showShadows>1</showShadows>
+	<showReflection>1</showReflection>
+	<showDepthOfField>0</showDepthOfField>
+	<renderFullView>0</renderFullView>
+	<renderQuality>2</renderQuality>
+	<textRenderQuality>2</textRenderQuality>
+	<showHighQualityResampling>0</showHighQualityResampling>
+	<showShapeAntialiasing>1</showShapeAntialiasing>
+	<show3DIntersectionAntialiasing>0</show3DIntersectionAntialiasing>
+	<useFloatMovies>0</useFloatMovies>
+	<cameraType>1</cameraType>
+	<cameraName></cameraName>
+</viewer>
+
+<projectPanel>
+	<layersPreviewColumn>1</layersPreviewColumn>
+	<layersOpacityColumn>0</layersOpacityColumn>
+	<layersBlendColumn>0</layersBlendColumn>
+	<displayMasks>1</displayMasks>
+	<displayBehaviors>1</displayBehaviors>
+	<displayEffects>1</displayEffects>
+	<layersVerticalZoom>1.268292665481567</layersVerticalZoom>
+	<mediaPreviewColumn>1</mediaPreviewColumn>
+	<mediaTypeColumn>1</mediaTypeColumn>
+	<mediaDurationColumn>1</mediaDurationColumn>
+	<mediaInUseColumn>1</mediaInUseColumn>
+	<mediaFrameSizeColumn>1</mediaFrameSizeColumn>
+	<mediaCompressorColumn>1</mediaCompressorColumn>
+	<mediaDepthColumn>1</mediaDepthColumn>
+	<mediaFrameRateColumn>1</mediaFrameRateColumn>
+	<mediaDataRateColumn>1</mediaDataRateColumn>
+	<mediaAudioRateColumn>1</mediaAudioRateColumn>
+	<mediaAudioFormatColumn>1</mediaAudioFormatColumn>
+	<mediaFileSizeColumn>1</mediaFileSizeColumn>
+	<mediaFileCreatedColumn>1</mediaFileCreatedColumn>
+	<mediaDileModifiedColumn>1</mediaDileModifiedColumn>
+	<mediaVerticalZoom>1.799999952316284</mediaVerticalZoom>
+	<audioMuteSoloColumn>1</audioMuteSoloColumn>
+	<audioBalanceColumn>1</audioBalanceColumn>
+</projectPanel>
+
+<timeline>
+	<displayVideo>1</displayVideo>
+	<displayAudio>0</displayAudio>
+	<displayKeyframes>0</displayKeyframes>
+	<displayMasks>1</displayMasks>
+	<displayBehaviors>1</displayBehaviors>
+	<displayEffects>1</displayEffects>
+	<videoVerticalZoom>1.555555582046509</videoVerticalZoom>
+	<audioVerticalZoom>1.555555582046509</audioVerticalZoom>
+	<displayRange in="-1.252669095993042" out="263"/>
+</timeline>
+
+<curveeditor>
+	<autozoom>0</autozoom>
+	<snapping>0</snapping>
+	<displayAudioWaveform>0</displayAudioWaveform>
+	<displayRange in="-1.210593104362488" out="239"/>
+	<currentviewvolume originx="-1.210593104362488" originy="-62.5" width="241.2105865478516" height="125"/>
+	<linkChannels>1</linkChannels>
+	<snapshotChannels>0</snapshotChannels>
+</curveeditor>
+
+<audioeditor>
+	<scrubbingcheck>1</scrubbingcheck>
+	<regioncheck>0</regioncheck>
+	<showpanningcheck>1</showpanningcheck>
+	<showvolumecheck>1</showvolumecheck>
+	<displayRange in="0" out="240"/>
+	<currentviewvolume originx="0" originy="-62.5" width="241" height="125"/>
+</audioeditor>
+
+<inspector>
+	<collapseState id="./1/100" state="1"/>
+	<collapseState id="./1/100/101" state="1"/>
+	<collapseState id="./1/100/109" state="1"/>
+	<collapseState id="./1/200" state="1"/>
+</inspector>
+
+<scene>
+	<sceneSettings>
+		<width>1280</width>
+		<height>720</height>
+		<duration>240</duration>
+		<frameRate>24</frameRate>
+		<NTSC>0</NTSC>
+		<channels>4</channels>
+		<channelDepth>8</channelDepth>
+		<useFloat>0</useFloat>
+		<pixelAspectRatio>1</pixelAspectRatio>
+		<backgroundColor red="0" green="0" blue="0" alpha="1"/>
+		<audioChannels>2</audioChannels>
+		<audioBitsPerSample>32</audioBitsPerSample>
+		<fieldRenderingMode>0</fieldRenderingMode>
+		<renderMethod>0</renderMethod>
+		<motionBlurSamples>8</motionBlurSamples>
+		<motionBlurDuration>1</motionBlurDuration>
+		<startTimecode>0</startTimecode>
+		<presetPath>/Users/Zack/Library/Application Support/Final Cut Studio/Motion/Presets/Project/720p24 Animation.preset</presetPath>
+		<useDithering>0</useDithering>
+		<backgroundMode>0</backgroundMode>
+		<reflectionRecursionLimit>2</reflectionRecursionLimit>
+		<glyphOSCMode>0</glyphOSCMode>
+		<animateFlag>0</animateFlag>
+		<parameterGamma>2.200000048</parameterGamma>
+	</sceneSettings>
+	<exportSettings>
+		<version>1</version>
+		<name></name>
+		<kind>0</kind>
+		<mediaType>0</mediaType>
+		<postAction>1</postAction>
+		<usePlayRange>0</usePlayRange>
+		<videoFormatName>QuickTime Movie</videoFormatName>
+		<videoCodecName>Animation</videoCodecName>
+		<videoCodecType>'rle '</videoCodecType>
+		<videoCodecManufacturer>'appl'</videoCodecManufacturer>
+		<depth>0</depth>
+		<quality>100</quality>
+		<temporalQuality>0</temporalQuality>
+		<frameRate>30</frameRate>
+		<keyFrameRate>0</keyFrameRate>
+		<dataRate>0</dataRate>
+		<videoFormatOptions></videoFormatOptions>
+		<videoOptionsSize>0</videoOptionsSize>
+		<sequenceStartNumber>0</sequenceStartNumber>
+		<sequenceAddSpace>0</sequenceAddSpace>
+		<audioCodecName></audioCodecName>
+		<audioCodecType>'raw '</audioCodecType>
+		<audioCodecManufacturer>'appl'</audioCodecManufacturer>
+		<audioSampleRate>48000</audioSampleRate>
+		<audioSampleSize>16</audioSampleSize>
+		<audioChannels>2</audioChannels>
+		<audioFormatOptions></audioFormatOptions>
+		<audioOptionsSize>0</audioOptionsSize>
+		<useProjectSettings>1</useProjectSettings>
+		<renderMethod>0</renderMethod>
+		<resolutionMode>0</resolutionMode>
+		<colorMode>2</colorMode>
+		<width>720</width>
+		<bitDepth>0</bitDepth>
+		<height>480</height>
+		<premultiplyAlpha>1</premultiplyAlpha>
+		<useProjectFrameRate>1</useProjectFrameRate>
+		<camera>0</camera>
+		<renderQuality>6</renderQuality>
+		<textRenderQuality>6</textRenderQuality>
+		<useHighQualityResampling>1</useHighQualityResampling>
+		<useShapeAntialiasing>1</useShapeAntialiasing>
+		<use3DIntersectionAntialiasing>1</use3DIntersectionAntialiasing>
+		<useFloatMovies>1</useFloatMovies>
+		<useFieldRendering>1</useFieldRendering>
+		<useMotionBlur>0</useMotionBlur>
+		<useFrameBlending>0</useFrameBlending>
+		<useFloatBitDepth>1</useFloatBitDepth>
+		<useLighting>1</useLighting>
+		<useShadows>1</useShadows>
+		<useReflection>1</useReflection>
+		<useDepthOfField>0</useDepthOfField>
+		<rasterize>0</rasterize>
+	</exportSettings>
+	<currentFrame>0</currentFrame>
+	<currentObject>10031</currentObject>
+	<activeLayer>10031</activeLayer>
+	<timeRange offset="0" duration="240"/>
+	<playRange offset="0" duration="240"/>
+	<flags>1</flags>
+	<audioTracks>0</audioTracks>
+	<timemarkerset/>
+	<guideset/>
+	<curvesets selected="1"/>
+	<layer name="Tripod" id="10031">
+		<layer name="Leg copy 1" id="10021">
+			<scenenode name="TripodLeg copy 5" id="10022" factoryID="1" version="4">
+				<validTracks>0</validTracks>
+				<override>0</override>
+				<aspectRatio>1</aspectRatio>
+				<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+				<flags>0</flags>
+				<timing in="0" out="239" offset="0"/>
+				<foldFlags>16384</foldFlags>
+				<baseFlags>524304</baseFlags>
+				<parameter name="Properties" id="1" flags="4176">
+					<parameter name="Transform" id="100" flags="4176">
+						<parameter name="Position" id="101" flags="4176">
+							<foldFlags>11</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="-17"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="-25"/>
+						</parameter>
+						<parameter name="Rotation" id="109" flags="4176">
+							<foldFlags>11</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="-2.129301687433082"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+							<parameter name="Animate" id="4" flags="65600" default="0" value="0"/>
+						</parameter>
+						<parameter name="Scale" id="105" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="1" value="1"/>
+							<parameter name="Y" id="2" flags="80" default="1" value="1"/>
+							<parameter name="Z" id="3" flags="80" default="1" value="1"/>
+						</parameter>
+						<parameter name="Shear" id="106" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Anchor Point" id="107" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Rotation" id="102" flags="82" default="0" value="0"/>
+					</parameter>
+					<parameter name="Blending" id="200" flags="4176">
+						<parameter name="Opacity" id="202" flags="80" default="1" value="1"/>
+						<parameter name="Blend Mode" id="203" flags="65616" default="0" value="0"/>
+						<parameter name="Preserve Opacity" id="217" flags="80" default="0" value="0"/>
+						<parameter name="Casts Reflection" id="236" flags="65616" default="0" value="0"/>
+					</parameter>
+					<parameter name="Lighting" id="230" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="Shading" id="230" flags="65616" default="0" value="0"/>
+						<parameter name="Highlights" id="231" flags="36944">
+							<foldFlags>131087</foldFlags>
+							<parameter name="Ambient Color" id="1" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Ambient Index" id="2" flags="82" default="0" value="0"/>
+							<parameter name="Diffuse Color" id="3" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Diffuse Index" id="4" flags="82" default="0" value="0"/>
+							<parameter name="Specular Color" id="5" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Specular Index" id="6" flags="82" default="0" value="0"/>
+							<parameter name="Emission Color" id="7" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+								<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+								<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="0" value="0"/>
+							</parameter>
+							<parameter name="Shininess" id="8" flags="80" default="50" value="50"/>
+						</parameter>
+					</parameter>
+					<parameter name="Shadows" id="234" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="Cast Shadows" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Receive Shadows" id="2" flags="80" default="1" value="1"/>
+						<parameter name="Shadows Only" id="3" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Reflection" id="223" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Reflectivity" id="228" flags="80" default="0.8" value="0.8"/>
+						<parameter name="Blur Amount" id="229" flags="80" default="0" value="0"/>
+						<parameter name="Falloff" id="224" flags="36944">
+							<foldFlags>131087</foldFlags>
+							<parameter name="Begin Distance" id="225" flags="80" default="0" value="0"/>
+							<parameter name="End Distance" id="226" flags="80" default="500" value="500"/>
+							<parameter name="Exponent" id="235" flags="80" default="1.8" value="1.8"/>
+						</parameter>
+						<parameter name="Blend Mode" id="227" flags="65616" default="0" value="0"/>
+					</parameter>
+					<parameter name="Drop Shadow" id="208" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Color" id="210" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+							<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+						</parameter>
+						<parameter name="Opacity" id="211" flags="80" default="0.75" value="0.75"/>
+						<parameter name="Blur" id="213" flags="80" default="5" value="5"/>
+						<parameter name="Distance" id="212" flags="80" default="5" value="5"/>
+						<parameter name="Angle" id="214" flags="80" default="5.497787143782138" value="5.497787143782138"/>
+						<parameter name="Fixed Source" id="232" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Four Corner" id="207" flags="36928">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Bottom Left" id="1" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Bottom Right" id="2" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Top Right" id="3" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Top Left" id="4" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+					</parameter>
+					<parameter name="Crop" id="216" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Left" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Right" id="2" flags="80" default="0" value="0"/>
+						<parameter name="Bottom" id="3" flags="80" default="0" value="0"/>
+						<parameter name="Top" id="4" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Timing" id="233" flags="4178">
+						<foldFlags>4</foldFlags>
+					</parameter>
+					<parameter name="Media" id="300" flags="65616" default="0" value="10003"/>
+					<parameter name="Page Number" id="301" flags="82" default="0" value="0"/>
+					<parameter name="Background Color" id="302" flags="69714">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+						<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+						<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+						<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+					</parameter>
+					<parameter name="Speed" id="309" flags="4259920" default="1" value="1"/>
+					<parameter name="Reverse" id="310" flags="4259920" default="0" value="0"/>
+					<parameter name="Time Remap" id="303" flags="65618" default="0" value="0"/>
+					<parameter name="Retime Value" id="304" flags="131410">
+						<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="32">
+								<time>0</time>
+								<value>1</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="32">
+								<time>240</time>
+								<value>241</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Retime Value Cache" id="319" flags="131154">
+						<curve type="1" default="1" value="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="160">
+								<time>0</time>
+								<value>1</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="160">
+								<time>240</time>
+								<value>241</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Frame Blending" id="305" flags="65618" default="0" value="0"/>
+					<parameter name="End Condition" id="306" flags="65618" default="0" value="0"/>
+					<parameter name="End Duration" id="307" flags="32850" default="0" value="0"/>
+					<parameter name="Duration Cache" id="320" flags="82" default="0" value="240"/>
+					<parameter name="Layer" id="308" flags="65618" default="0" value="0"/>
+				</parameter>
+				<parameter name="Object" id="2" flags="4176">
+					<parameter name="Drop Zone" id="311" flags="208" default="0" value="0"/>
+					<parameter name="Fit" id="317" flags="65616" default="0" value="0"/>
+					<parameter name="Replaced" id="312" flags="82" default="0" value="0"/>
+					<parameter name="Fit Factor" id="318" flags="4178">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Y" id="2" flags="80" default="1" value="1"/>
+					</parameter>
+					<parameter name="Clear" id="315" flags="65616" default="0" value="0"/>
+					<parameter name="Width" id="313" flags="82" default="0" value="64"/>
+					<parameter name="Height" id="314" flags="82" default="0" value="640"/>
+				</parameter>
+			</scenenode>
+			<scenenode name="TripodLeg copy 6" id="10024" factoryID="1" version="4">
+				<validTracks>0</validTracks>
+				<override>0</override>
+				<aspectRatio>1</aspectRatio>
+				<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+				<flags>0</flags>
+				<timing in="0" out="239" offset="0"/>
+				<foldFlags>16384</foldFlags>
+				<baseFlags>524304</baseFlags>
+				<parameter name="Properties" id="1" flags="4176">
+					<parameter name="Transform" id="100" flags="4176">
+						<parameter name="Position" id="101" flags="4176">
+							<foldFlags>11</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="16"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="-25"/>
+						</parameter>
+						<parameter name="Rotation" id="109" flags="4176">
+							<foldFlags>11</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="2.129301687433082"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+							<parameter name="Animate" id="4" flags="65600" default="0" value="0"/>
+						</parameter>
+						<parameter name="Scale" id="105" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="1" value="1"/>
+							<parameter name="Y" id="2" flags="80" default="1" value="1"/>
+							<parameter name="Z" id="3" flags="80" default="1" value="1"/>
+						</parameter>
+						<parameter name="Shear" id="106" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Anchor Point" id="107" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Rotation" id="102" flags="82" default="0" value="0"/>
+					</parameter>
+					<parameter name="Blending" id="200" flags="4176">
+						<parameter name="Opacity" id="202" flags="80" default="1" value="1"/>
+						<parameter name="Blend Mode" id="203" flags="65616" default="0" value="0"/>
+						<parameter name="Preserve Opacity" id="217" flags="80" default="0" value="0"/>
+						<parameter name="Casts Reflection" id="236" flags="65616" default="0" value="0"/>
+					</parameter>
+					<parameter name="Lighting" id="230" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="Shading" id="230" flags="65616" default="0" value="0"/>
+						<parameter name="Highlights" id="231" flags="36944">
+							<foldFlags>131087</foldFlags>
+							<parameter name="Ambient Color" id="1" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Ambient Index" id="2" flags="82" default="0" value="0"/>
+							<parameter name="Diffuse Color" id="3" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Diffuse Index" id="4" flags="82" default="0" value="0"/>
+							<parameter name="Specular Color" id="5" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Specular Index" id="6" flags="82" default="0" value="0"/>
+							<parameter name="Emission Color" id="7" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+								<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+								<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="0" value="0"/>
+							</parameter>
+							<parameter name="Shininess" id="8" flags="80" default="50" value="50"/>
+						</parameter>
+					</parameter>
+					<parameter name="Shadows" id="234" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="Cast Shadows" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Receive Shadows" id="2" flags="80" default="1" value="1"/>
+						<parameter name="Shadows Only" id="3" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Reflection" id="223" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Reflectivity" id="228" flags="80" default="0.8" value="0.8"/>
+						<parameter name="Blur Amount" id="229" flags="80" default="0" value="0"/>
+						<parameter name="Falloff" id="224" flags="36944">
+							<foldFlags>131087</foldFlags>
+							<parameter name="Begin Distance" id="225" flags="80" default="0" value="0"/>
+							<parameter name="End Distance" id="226" flags="80" default="500" value="500"/>
+							<parameter name="Exponent" id="235" flags="80" default="1.8" value="1.8"/>
+						</parameter>
+						<parameter name="Blend Mode" id="227" flags="65616" default="0" value="0"/>
+					</parameter>
+					<parameter name="Drop Shadow" id="208" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Color" id="210" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+							<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+						</parameter>
+						<parameter name="Opacity" id="211" flags="80" default="0.75" value="0.75"/>
+						<parameter name="Blur" id="213" flags="80" default="5" value="5"/>
+						<parameter name="Distance" id="212" flags="80" default="5" value="5"/>
+						<parameter name="Angle" id="214" flags="80" default="5.497787143782138" value="5.497787143782138"/>
+						<parameter name="Fixed Source" id="232" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Four Corner" id="207" flags="36928">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Bottom Left" id="1" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Bottom Right" id="2" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Top Right" id="3" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Top Left" id="4" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+					</parameter>
+					<parameter name="Crop" id="216" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Left" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Right" id="2" flags="80" default="0" value="0"/>
+						<parameter name="Bottom" id="3" flags="80" default="0" value="0"/>
+						<parameter name="Top" id="4" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Timing" id="233" flags="4178">
+						<foldFlags>4</foldFlags>
+					</parameter>
+					<parameter name="Media" id="300" flags="65616" default="0" value="10003"/>
+					<parameter name="Page Number" id="301" flags="82" default="0" value="0"/>
+					<parameter name="Background Color" id="302" flags="69714">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+						<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+						<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+						<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+					</parameter>
+					<parameter name="Speed" id="309" flags="4259920" default="1" value="1"/>
+					<parameter name="Reverse" id="310" flags="4259920" default="0" value="0"/>
+					<parameter name="Time Remap" id="303" flags="65618" default="0" value="0"/>
+					<parameter name="Retime Value" id="304" flags="131410">
+						<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="32">
+								<time>0</time>
+								<value>1</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="32">
+								<time>240</time>
+								<value>241</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Retime Value Cache" id="319" flags="131154">
+						<curve type="1" default="1" value="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="160">
+								<time>0</time>
+								<value>1</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="160">
+								<time>240</time>
+								<value>241</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Frame Blending" id="305" flags="65618" default="0" value="0"/>
+					<parameter name="End Condition" id="306" flags="65618" default="0" value="0"/>
+					<parameter name="End Duration" id="307" flags="32850" default="0" value="0"/>
+					<parameter name="Duration Cache" id="320" flags="82" default="0" value="240"/>
+					<parameter name="Layer" id="308" flags="65618" default="0" value="0"/>
+				</parameter>
+				<parameter name="Object" id="2" flags="4176">
+					<parameter name="Drop Zone" id="311" flags="208" default="0" value="0"/>
+					<parameter name="Fit" id="317" flags="65616" default="0" value="0"/>
+					<parameter name="Replaced" id="312" flags="82" default="0" value="0"/>
+					<parameter name="Fit Factor" id="318" flags="4178">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Y" id="2" flags="80" default="1" value="1"/>
+					</parameter>
+					<parameter name="Clear" id="315" flags="65616" default="0" value="0"/>
+					<parameter name="Width" id="313" flags="82" default="0" value="64"/>
+					<parameter name="Height" id="314" flags="82" default="0" value="640"/>
+				</parameter>
+			</scenenode>
+			<scenenode name="TripodLeg copy 7" id="10026" factoryID="1" version="4">
+				<validTracks>0</validTracks>
+				<override>0</override>
+				<aspectRatio>1</aspectRatio>
+				<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+				<flags>0</flags>
+				<timing in="0" out="239" offset="0"/>
+				<foldFlags>16384</foldFlags>
+				<baseFlags>524304</baseFlags>
+				<parameter name="Properties" id="1" flags="4176">
+					<parameter name="Transform" id="100" flags="4176">
+						<parameter name="Position" id="101" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Rotation" id="109" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+							<parameter name="Animate" id="4" flags="65600" default="0" value="0"/>
+						</parameter>
+						<parameter name="Scale" id="105" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="1" value="1"/>
+							<parameter name="Y" id="2" flags="80" default="1" value="1"/>
+							<parameter name="Z" id="3" flags="80" default="1" value="1"/>
+						</parameter>
+						<parameter name="Shear" id="106" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Anchor Point" id="107" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Rotation" id="102" flags="82" default="0" value="0"/>
+					</parameter>
+					<parameter name="Blending" id="200" flags="4176">
+						<parameter name="Opacity" id="202" flags="80" default="1" value="1"/>
+						<parameter name="Blend Mode" id="203" flags="65616" default="0" value="0"/>
+						<parameter name="Preserve Opacity" id="217" flags="80" default="0" value="0"/>
+						<parameter name="Casts Reflection" id="236" flags="65616" default="0" value="0"/>
+					</parameter>
+					<parameter name="Lighting" id="230" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="Shading" id="230" flags="65616" default="0" value="0"/>
+						<parameter name="Highlights" id="231" flags="36944">
+							<foldFlags>131087</foldFlags>
+							<parameter name="Ambient Color" id="1" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Ambient Index" id="2" flags="82" default="0" value="0"/>
+							<parameter name="Diffuse Color" id="3" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Diffuse Index" id="4" flags="82" default="0" value="0"/>
+							<parameter name="Specular Color" id="5" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Specular Index" id="6" flags="82" default="0" value="0"/>
+							<parameter name="Emission Color" id="7" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+								<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+								<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="0" value="0"/>
+							</parameter>
+							<parameter name="Shininess" id="8" flags="80" default="50" value="50"/>
+						</parameter>
+					</parameter>
+					<parameter name="Shadows" id="234" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="Cast Shadows" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Receive Shadows" id="2" flags="80" default="1" value="1"/>
+						<parameter name="Shadows Only" id="3" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Reflection" id="223" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Reflectivity" id="228" flags="80" default="0.8" value="0.8"/>
+						<parameter name="Blur Amount" id="229" flags="80" default="0" value="0"/>
+						<parameter name="Falloff" id="224" flags="36944">
+							<foldFlags>131087</foldFlags>
+							<parameter name="Begin Distance" id="225" flags="80" default="0" value="0"/>
+							<parameter name="End Distance" id="226" flags="80" default="500" value="500"/>
+							<parameter name="Exponent" id="235" flags="80" default="1.8" value="1.8"/>
+						</parameter>
+						<parameter name="Blend Mode" id="227" flags="65616" default="0" value="0"/>
+					</parameter>
+					<parameter name="Drop Shadow" id="208" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Color" id="210" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+							<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+						</parameter>
+						<parameter name="Opacity" id="211" flags="80" default="0.75" value="0.75"/>
+						<parameter name="Blur" id="213" flags="80" default="5" value="5"/>
+						<parameter name="Distance" id="212" flags="80" default="5" value="5"/>
+						<parameter name="Angle" id="214" flags="80" default="5.497787143782138" value="5.497787143782138"/>
+						<parameter name="Fixed Source" id="232" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Four Corner" id="207" flags="36928">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Bottom Left" id="1" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Bottom Right" id="2" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Top Right" id="3" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Top Left" id="4" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+					</parameter>
+					<parameter name="Crop" id="216" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Left" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Right" id="2" flags="80" default="0" value="0"/>
+						<parameter name="Bottom" id="3" flags="80" default="0" value="0"/>
+						<parameter name="Top" id="4" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Timing" id="233" flags="4178">
+						<foldFlags>4</foldFlags>
+					</parameter>
+					<parameter name="Media" id="300" flags="65616" default="0" value="10003"/>
+					<parameter name="Page Number" id="301" flags="82" default="0" value="0"/>
+					<parameter name="Background Color" id="302" flags="69714">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+						<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+						<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+						<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+					</parameter>
+					<parameter name="Speed" id="309" flags="4259920" default="1" value="1"/>
+					<parameter name="Reverse" id="310" flags="4259920" default="0" value="0"/>
+					<parameter name="Time Remap" id="303" flags="65618" default="0" value="0"/>
+					<parameter name="Retime Value" id="304" flags="131410">
+						<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="32">
+								<time>0</time>
+								<value>1</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="32">
+								<time>240</time>
+								<value>241</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Retime Value Cache" id="319" flags="131154">
+						<curve type="1" default="1" value="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="160">
+								<time>0</time>
+								<value>1</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="160">
+								<time>240</time>
+								<value>241</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Frame Blending" id="305" flags="65618" default="0" value="0"/>
+					<parameter name="End Condition" id="306" flags="65618" default="0" value="0"/>
+					<parameter name="End Duration" id="307" flags="32850" default="0" value="0"/>
+					<parameter name="Duration Cache" id="320" flags="82" default="0" value="240"/>
+					<parameter name="Layer" id="308" flags="65618" default="0" value="0"/>
+				</parameter>
+				<parameter name="Object" id="2" flags="4176">
+					<parameter name="Drop Zone" id="311" flags="208" default="0" value="0"/>
+					<parameter name="Fit" id="317" flags="65616" default="0" value="0"/>
+					<parameter name="Replaced" id="312" flags="82" default="0" value="0"/>
+					<parameter name="Fit Factor" id="318" flags="4178">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Y" id="2" flags="80" default="1" value="1"/>
+					</parameter>
+					<parameter name="Clear" id="315" flags="65616" default="0" value="0"/>
+					<parameter name="Width" id="313" flags="82" default="0" value="64"/>
+					<parameter name="Height" id="314" flags="82" default="0" value="640"/>
+				</parameter>
+			</scenenode>
+			<override>0</override>
+			<aspectRatio>1</aspectRatio>
+			<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+			<flags>0</flags>
+			<timing in="0" out="239" offset="0"/>
+			<foldFlags>1</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="4176">
+				<parameter name="Transform" id="100" flags="4176">
+					<parameter name="Position" id="101" flags="4176">
+						<foldFlags>11</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="110"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						<parameter name="Z" id="3" flags="80" default="0" value="70"/>
+					</parameter>
+					<parameter name="Rotation" id="109" flags="4176">
+						<foldFlags>11</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0.3490658503988659"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="-2.094395102393195"/>
+						<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+						<parameter name="Animate" id="4" flags="65600" default="0" value="0"/>
+					</parameter>
+					<parameter name="Scale" id="105" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Y" id="2" flags="80" default="1" value="1"/>
+						<parameter name="Z" id="3" flags="80" default="1" value="1"/>
+					</parameter>
+					<parameter name="Shear" id="106" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Anchor Point" id="107" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Rotation" id="102" flags="82" default="0" value="0"/>
+				</parameter>
+				<parameter name="Blending" id="200" flags="4176">
+					<parameter name="Opacity" id="202" flags="2128" default="1" value="1"/>
+					<parameter name="Blend Mode" id="203" flags="67664" default="34" value="34"/>
+					<parameter name="Preserve Opacity" id="217" flags="2128" default="0" value="0"/>
+					<parameter name="Casts Reflection" id="236" flags="65616" default="0" value="0"/>
+				</parameter>
+				<parameter name="Lighting" id="230" flags="4176">
+					<foldFlags>15</foldFlags>
+					<parameter name="Shading" id="230" flags="65616" default="0" value="0"/>
+					<parameter name="Highlights" id="231" flags="36946">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Ambient Color" id="1" flags="4178">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+							<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+							<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+							<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+							<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+						</parameter>
+						<parameter name="Ambient Index" id="2" flags="82" default="0" value="0"/>
+						<parameter name="Diffuse Color" id="3" flags="4178">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+							<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+							<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+							<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+							<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+						</parameter>
+						<parameter name="Diffuse Index" id="4" flags="82" default="0" value="0"/>
+						<parameter name="Specular Color" id="5" flags="4178">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+							<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+							<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+							<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+							<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+						</parameter>
+						<parameter name="Specular Index" id="6" flags="82" default="0" value="0"/>
+						<parameter name="Emission Color" id="7" flags="4178">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+							<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+							<parameter name="Opacity" id="4" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Shininess" id="8" flags="80" default="50" value="50"/>
+					</parameter>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="4178">
+					<foldFlags>15</foldFlags>
+					<parameter name="Cast Shadows" id="1" flags="80" default="1" value="1"/>
+					<parameter name="Receive Shadows" id="2" flags="80" default="1" value="1"/>
+					<parameter name="Shadows Only" id="3" flags="80" default="0" value="0"/>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="36944">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Reflectivity" id="228" flags="80" default="0.8" value="0.8"/>
+					<parameter name="Blur Amount" id="229" flags="80" default="0" value="0"/>
+					<parameter name="Falloff" id="224" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Begin Distance" id="225" flags="80" default="0" value="0"/>
+						<parameter name="End Distance" id="226" flags="80" default="500" value="500"/>
+						<parameter name="Exponent" id="235" flags="80" default="1.8" value="1.8"/>
+					</parameter>
+					<parameter name="Blend Mode" id="227" flags="65616" default="0" value="0"/>
+				</parameter>
+				<parameter name="Drop Shadow" id="208" flags="38994">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Color" id="210" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+						<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+						<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+					</parameter>
+					<parameter name="Opacity" id="211" flags="80" default="0.75" value="0.75"/>
+					<parameter name="Blur" id="213" flags="80" default="5" value="5"/>
+					<parameter name="Distance" id="212" flags="80" default="5" value="5"/>
+					<parameter name="Angle" id="214" flags="80" default="5.497787143782138" value="5.497787143782138"/>
+					<parameter name="Fixed Source" id="232" flags="80" default="0" value="0"/>
+				</parameter>
+				<parameter name="Four Corner" id="207" flags="38978">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Bottom Left" id="1" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Bottom Right" id="2" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Top Right" id="3" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Top Left" id="4" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+					</parameter>
+				</parameter>
+				<parameter name="Crop" id="216" flags="38994">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Left" id="1" flags="80" default="0" value="0"/>
+					<parameter name="Right" id="2" flags="80" default="0" value="0"/>
+					<parameter name="Bottom" id="3" flags="80" default="0" value="0"/>
+					<parameter name="Top" id="4" flags="80" default="0" value="0"/>
+				</parameter>
+				<parameter name="Timing" id="233" flags="4178">
+					<foldFlags>4</foldFlags>
+				</parameter>
+			</parameter>
+			<parameter name="Object" id="2" flags="4176">
+				<parameter name="Type" id="307" flags="65616" default="0" value="1"/>
+				<parameter name="Fixed Resolution" id="301" flags="2130" default="0" value="0"/>
+				<parameter name="Fixed Width" id="302" flags="86" default="1280" value="1280"/>
+				<parameter name="Fixed Height" id="303" flags="86" default="720" value="720"/>
+				<parameter name="Flatten" id="311" flags="80" default="0" value="0"/>
+				<parameter name="Layer Order" id="305" flags="80" default="0" value="0"/>
+				<parameter name="Aperture Width" id="312" flags="82" default="1280" value="1280"/>
+				<parameter name="Aperture Height" id="313" flags="82" default="720" value="720"/>
+				<parameter name="Hidden Channel" id="314" flags="82" default="4" value="4"/>
+			</parameter>
+		</layer>
+		<layer name="Leg copy" id="10013">
+			<scenenode name="TripodLeg copy 2" id="10014" factoryID="1" version="4">
+				<validTracks>0</validTracks>
+				<override>0</override>
+				<aspectRatio>1</aspectRatio>
+				<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+				<flags>0</flags>
+				<timing in="0" out="239" offset="0"/>
+				<foldFlags>16384</foldFlags>
+				<baseFlags>524304</baseFlags>
+				<parameter name="Properties" id="1" flags="4176">
+					<parameter name="Transform" id="100" flags="4176">
+						<parameter name="Position" id="101" flags="4176">
+							<foldFlags>11</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="-17"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="-25"/>
+						</parameter>
+						<parameter name="Rotation" id="109" flags="4176">
+							<foldFlags>11</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="-2.129301687433082"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+							<parameter name="Animate" id="4" flags="65600" default="0" value="0"/>
+						</parameter>
+						<parameter name="Scale" id="105" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="1" value="1"/>
+							<parameter name="Y" id="2" flags="80" default="1" value="1"/>
+							<parameter name="Z" id="3" flags="80" default="1" value="1"/>
+						</parameter>
+						<parameter name="Shear" id="106" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Anchor Point" id="107" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Rotation" id="102" flags="82" default="0" value="0"/>
+					</parameter>
+					<parameter name="Blending" id="200" flags="4176">
+						<parameter name="Opacity" id="202" flags="80" default="1" value="1"/>
+						<parameter name="Blend Mode" id="203" flags="65616" default="0" value="0"/>
+						<parameter name="Preserve Opacity" id="217" flags="80" default="0" value="0"/>
+						<parameter name="Casts Reflection" id="236" flags="65616" default="0" value="0"/>
+					</parameter>
+					<parameter name="Lighting" id="230" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="Shading" id="230" flags="65616" default="0" value="0"/>
+						<parameter name="Highlights" id="231" flags="36944">
+							<foldFlags>131087</foldFlags>
+							<parameter name="Ambient Color" id="1" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Ambient Index" id="2" flags="82" default="0" value="0"/>
+							<parameter name="Diffuse Color" id="3" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Diffuse Index" id="4" flags="82" default="0" value="0"/>
+							<parameter name="Specular Color" id="5" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Specular Index" id="6" flags="82" default="0" value="0"/>
+							<parameter name="Emission Color" id="7" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+								<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+								<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="0" value="0"/>
+							</parameter>
+							<parameter name="Shininess" id="8" flags="80" default="50" value="50"/>
+						</parameter>
+					</parameter>
+					<parameter name="Shadows" id="234" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="Cast Shadows" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Receive Shadows" id="2" flags="80" default="1" value="1"/>
+						<parameter name="Shadows Only" id="3" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Reflection" id="223" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Reflectivity" id="228" flags="80" default="0.8" value="0.8"/>
+						<parameter name="Blur Amount" id="229" flags="80" default="0" value="0"/>
+						<parameter name="Falloff" id="224" flags="36944">
+							<foldFlags>131087</foldFlags>
+							<parameter name="Begin Distance" id="225" flags="80" default="0" value="0"/>
+							<parameter name="End Distance" id="226" flags="80" default="500" value="500"/>
+							<parameter name="Exponent" id="235" flags="80" default="1.8" value="1.8"/>
+						</parameter>
+						<parameter name="Blend Mode" id="227" flags="65616" default="0" value="0"/>
+					</parameter>
+					<parameter name="Drop Shadow" id="208" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Color" id="210" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+							<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+						</parameter>
+						<parameter name="Opacity" id="211" flags="80" default="0.75" value="0.75"/>
+						<parameter name="Blur" id="213" flags="80" default="5" value="5"/>
+						<parameter name="Distance" id="212" flags="80" default="5" value="5"/>
+						<parameter name="Angle" id="214" flags="80" default="5.497787143782138" value="5.497787143782138"/>
+						<parameter name="Fixed Source" id="232" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Four Corner" id="207" flags="36928">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Bottom Left" id="1" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Bottom Right" id="2" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Top Right" id="3" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Top Left" id="4" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+					</parameter>
+					<parameter name="Crop" id="216" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Left" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Right" id="2" flags="80" default="0" value="0"/>
+						<parameter name="Bottom" id="3" flags="80" default="0" value="0"/>
+						<parameter name="Top" id="4" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Timing" id="233" flags="4178">
+						<foldFlags>4</foldFlags>
+					</parameter>
+					<parameter name="Media" id="300" flags="65616" default="0" value="10003"/>
+					<parameter name="Page Number" id="301" flags="82" default="0" value="0"/>
+					<parameter name="Background Color" id="302" flags="69714">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+						<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+						<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+						<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+					</parameter>
+					<parameter name="Speed" id="309" flags="4259920" default="1" value="1"/>
+					<parameter name="Reverse" id="310" flags="4259920" default="0" value="0"/>
+					<parameter name="Time Remap" id="303" flags="65618" default="0" value="0"/>
+					<parameter name="Retime Value" id="304" flags="131410">
+						<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="32">
+								<time>0</time>
+								<value>1</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="32">
+								<time>240</time>
+								<value>241</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Retime Value Cache" id="319" flags="131154">
+						<curve type="1" default="1" value="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="160">
+								<time>0</time>
+								<value>1</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="160">
+								<time>240</time>
+								<value>241</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Frame Blending" id="305" flags="65618" default="0" value="0"/>
+					<parameter name="End Condition" id="306" flags="65618" default="0" value="0"/>
+					<parameter name="End Duration" id="307" flags="32850" default="0" value="0"/>
+					<parameter name="Duration Cache" id="320" flags="82" default="0" value="240"/>
+					<parameter name="Layer" id="308" flags="65618" default="0" value="0"/>
+				</parameter>
+				<parameter name="Object" id="2" flags="4176">
+					<parameter name="Drop Zone" id="311" flags="208" default="0" value="0"/>
+					<parameter name="Fit" id="317" flags="65616" default="0" value="0"/>
+					<parameter name="Replaced" id="312" flags="82" default="0" value="0"/>
+					<parameter name="Fit Factor" id="318" flags="4178">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Y" id="2" flags="80" default="1" value="1"/>
+					</parameter>
+					<parameter name="Clear" id="315" flags="65616" default="0" value="0"/>
+					<parameter name="Width" id="313" flags="82" default="0" value="64"/>
+					<parameter name="Height" id="314" flags="82" default="0" value="640"/>
+				</parameter>
+			</scenenode>
+			<scenenode name="TripodLeg copy 3" id="10016" factoryID="1" version="4">
+				<validTracks>0</validTracks>
+				<override>0</override>
+				<aspectRatio>1</aspectRatio>
+				<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+				<flags>0</flags>
+				<timing in="0" out="239" offset="0"/>
+				<foldFlags>16384</foldFlags>
+				<baseFlags>524304</baseFlags>
+				<parameter name="Properties" id="1" flags="4176">
+					<parameter name="Transform" id="100" flags="4176">
+						<parameter name="Position" id="101" flags="4176">
+							<foldFlags>11</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="16"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="-25"/>
+						</parameter>
+						<parameter name="Rotation" id="109" flags="4176">
+							<foldFlags>11</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="2.129301687433082"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+							<parameter name="Animate" id="4" flags="65600" default="0" value="0"/>
+						</parameter>
+						<parameter name="Scale" id="105" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="1" value="1"/>
+							<parameter name="Y" id="2" flags="80" default="1" value="1"/>
+							<parameter name="Z" id="3" flags="80" default="1" value="1"/>
+						</parameter>
+						<parameter name="Shear" id="106" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Anchor Point" id="107" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Rotation" id="102" flags="82" default="0" value="0"/>
+					</parameter>
+					<parameter name="Blending" id="200" flags="4176">
+						<parameter name="Opacity" id="202" flags="80" default="1" value="1"/>
+						<parameter name="Blend Mode" id="203" flags="65616" default="0" value="0"/>
+						<parameter name="Preserve Opacity" id="217" flags="80" default="0" value="0"/>
+						<parameter name="Casts Reflection" id="236" flags="65616" default="0" value="0"/>
+					</parameter>
+					<parameter name="Lighting" id="230" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="Shading" id="230" flags="65616" default="0" value="0"/>
+						<parameter name="Highlights" id="231" flags="36944">
+							<foldFlags>131087</foldFlags>
+							<parameter name="Ambient Color" id="1" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Ambient Index" id="2" flags="82" default="0" value="0"/>
+							<parameter name="Diffuse Color" id="3" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Diffuse Index" id="4" flags="82" default="0" value="0"/>
+							<parameter name="Specular Color" id="5" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Specular Index" id="6" flags="82" default="0" value="0"/>
+							<parameter name="Emission Color" id="7" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+								<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+								<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="0" value="0"/>
+							</parameter>
+							<parameter name="Shininess" id="8" flags="80" default="50" value="50"/>
+						</parameter>
+					</parameter>
+					<parameter name="Shadows" id="234" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="Cast Shadows" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Receive Shadows" id="2" flags="80" default="1" value="1"/>
+						<parameter name="Shadows Only" id="3" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Reflection" id="223" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Reflectivity" id="228" flags="80" default="0.8" value="0.8"/>
+						<parameter name="Blur Amount" id="229" flags="80" default="0" value="0"/>
+						<parameter name="Falloff" id="224" flags="36944">
+							<foldFlags>131087</foldFlags>
+							<parameter name="Begin Distance" id="225" flags="80" default="0" value="0"/>
+							<parameter name="End Distance" id="226" flags="80" default="500" value="500"/>
+							<parameter name="Exponent" id="235" flags="80" default="1.8" value="1.8"/>
+						</parameter>
+						<parameter name="Blend Mode" id="227" flags="65616" default="0" value="0"/>
+					</parameter>
+					<parameter name="Drop Shadow" id="208" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Color" id="210" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+							<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+						</parameter>
+						<parameter name="Opacity" id="211" flags="80" default="0.75" value="0.75"/>
+						<parameter name="Blur" id="213" flags="80" default="5" value="5"/>
+						<parameter name="Distance" id="212" flags="80" default="5" value="5"/>
+						<parameter name="Angle" id="214" flags="80" default="5.497787143782138" value="5.497787143782138"/>
+						<parameter name="Fixed Source" id="232" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Four Corner" id="207" flags="36928">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Bottom Left" id="1" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Bottom Right" id="2" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Top Right" id="3" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Top Left" id="4" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+					</parameter>
+					<parameter name="Crop" id="216" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Left" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Right" id="2" flags="80" default="0" value="0"/>
+						<parameter name="Bottom" id="3" flags="80" default="0" value="0"/>
+						<parameter name="Top" id="4" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Timing" id="233" flags="4178">
+						<foldFlags>4</foldFlags>
+					</parameter>
+					<parameter name="Media" id="300" flags="65616" default="0" value="10003"/>
+					<parameter name="Page Number" id="301" flags="82" default="0" value="0"/>
+					<parameter name="Background Color" id="302" flags="69714">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+						<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+						<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+						<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+					</parameter>
+					<parameter name="Speed" id="309" flags="4259920" default="1" value="1"/>
+					<parameter name="Reverse" id="310" flags="4259920" default="0" value="0"/>
+					<parameter name="Time Remap" id="303" flags="65618" default="0" value="0"/>
+					<parameter name="Retime Value" id="304" flags="131410">
+						<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="32">
+								<time>0</time>
+								<value>1</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="32">
+								<time>240</time>
+								<value>241</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Retime Value Cache" id="319" flags="131154">
+						<curve type="1" default="1" value="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="160">
+								<time>0</time>
+								<value>1</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="160">
+								<time>240</time>
+								<value>241</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Frame Blending" id="305" flags="65618" default="0" value="0"/>
+					<parameter name="End Condition" id="306" flags="65618" default="0" value="0"/>
+					<parameter name="End Duration" id="307" flags="32850" default="0" value="0"/>
+					<parameter name="Duration Cache" id="320" flags="82" default="0" value="240"/>
+					<parameter name="Layer" id="308" flags="65618" default="0" value="0"/>
+				</parameter>
+				<parameter name="Object" id="2" flags="4176">
+					<parameter name="Drop Zone" id="311" flags="208" default="0" value="0"/>
+					<parameter name="Fit" id="317" flags="65616" default="0" value="0"/>
+					<parameter name="Replaced" id="312" flags="82" default="0" value="0"/>
+					<parameter name="Fit Factor" id="318" flags="4178">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Y" id="2" flags="80" default="1" value="1"/>
+					</parameter>
+					<parameter name="Clear" id="315" flags="65616" default="0" value="0"/>
+					<parameter name="Width" id="313" flags="82" default="0" value="64"/>
+					<parameter name="Height" id="314" flags="82" default="0" value="640"/>
+				</parameter>
+			</scenenode>
+			<scenenode name="TripodLeg copy 4" id="10018" factoryID="1" version="4">
+				<validTracks>0</validTracks>
+				<override>0</override>
+				<aspectRatio>1</aspectRatio>
+				<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+				<flags>0</flags>
+				<timing in="0" out="239" offset="0"/>
+				<foldFlags>16384</foldFlags>
+				<baseFlags>524304</baseFlags>
+				<parameter name="Properties" id="1" flags="4176">
+					<parameter name="Transform" id="100" flags="4176">
+						<parameter name="Position" id="101" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Rotation" id="109" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+							<parameter name="Animate" id="4" flags="65600" default="0" value="0"/>
+						</parameter>
+						<parameter name="Scale" id="105" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="1" value="1"/>
+							<parameter name="Y" id="2" flags="80" default="1" value="1"/>
+							<parameter name="Z" id="3" flags="80" default="1" value="1"/>
+						</parameter>
+						<parameter name="Shear" id="106" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Anchor Point" id="107" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Rotation" id="102" flags="82" default="0" value="0"/>
+					</parameter>
+					<parameter name="Blending" id="200" flags="4176">
+						<parameter name="Opacity" id="202" flags="80" default="1" value="1"/>
+						<parameter name="Blend Mode" id="203" flags="65616" default="0" value="0"/>
+						<parameter name="Preserve Opacity" id="217" flags="80" default="0" value="0"/>
+						<parameter name="Casts Reflection" id="236" flags="65616" default="0" value="0"/>
+					</parameter>
+					<parameter name="Lighting" id="230" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="Shading" id="230" flags="65616" default="0" value="0"/>
+						<parameter name="Highlights" id="231" flags="36944">
+							<foldFlags>131087</foldFlags>
+							<parameter name="Ambient Color" id="1" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Ambient Index" id="2" flags="82" default="0" value="0"/>
+							<parameter name="Diffuse Color" id="3" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Diffuse Index" id="4" flags="82" default="0" value="0"/>
+							<parameter name="Specular Color" id="5" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Specular Index" id="6" flags="82" default="0" value="0"/>
+							<parameter name="Emission Color" id="7" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+								<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+								<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="0" value="0"/>
+							</parameter>
+							<parameter name="Shininess" id="8" flags="80" default="50" value="50"/>
+						</parameter>
+					</parameter>
+					<parameter name="Shadows" id="234" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="Cast Shadows" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Receive Shadows" id="2" flags="80" default="1" value="1"/>
+						<parameter name="Shadows Only" id="3" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Reflection" id="223" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Reflectivity" id="228" flags="80" default="0.8" value="0.8"/>
+						<parameter name="Blur Amount" id="229" flags="80" default="0" value="0"/>
+						<parameter name="Falloff" id="224" flags="36944">
+							<foldFlags>131087</foldFlags>
+							<parameter name="Begin Distance" id="225" flags="80" default="0" value="0"/>
+							<parameter name="End Distance" id="226" flags="80" default="500" value="500"/>
+							<parameter name="Exponent" id="235" flags="80" default="1.8" value="1.8"/>
+						</parameter>
+						<parameter name="Blend Mode" id="227" flags="65616" default="0" value="0"/>
+					</parameter>
+					<parameter name="Drop Shadow" id="208" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Color" id="210" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+							<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+						</parameter>
+						<parameter name="Opacity" id="211" flags="80" default="0.75" value="0.75"/>
+						<parameter name="Blur" id="213" flags="80" default="5" value="5"/>
+						<parameter name="Distance" id="212" flags="80" default="5" value="5"/>
+						<parameter name="Angle" id="214" flags="80" default="5.497787143782138" value="5.497787143782138"/>
+						<parameter name="Fixed Source" id="232" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Four Corner" id="207" flags="36928">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Bottom Left" id="1" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Bottom Right" id="2" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Top Right" id="3" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Top Left" id="4" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+					</parameter>
+					<parameter name="Crop" id="216" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Left" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Right" id="2" flags="80" default="0" value="0"/>
+						<parameter name="Bottom" id="3" flags="80" default="0" value="0"/>
+						<parameter name="Top" id="4" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Timing" id="233" flags="4178">
+						<foldFlags>4</foldFlags>
+					</parameter>
+					<parameter name="Media" id="300" flags="65616" default="0" value="10003"/>
+					<parameter name="Page Number" id="301" flags="82" default="0" value="0"/>
+					<parameter name="Background Color" id="302" flags="69714">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+						<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+						<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+						<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+					</parameter>
+					<parameter name="Speed" id="309" flags="4259920" default="1" value="1"/>
+					<parameter name="Reverse" id="310" flags="4259920" default="0" value="0"/>
+					<parameter name="Time Remap" id="303" flags="65618" default="0" value="0"/>
+					<parameter name="Retime Value" id="304" flags="131410">
+						<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="32">
+								<time>0</time>
+								<value>1</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="32">
+								<time>240</time>
+								<value>241</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Retime Value Cache" id="319" flags="131154">
+						<curve type="1" default="1" value="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="160">
+								<time>0</time>
+								<value>1</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="160">
+								<time>240</time>
+								<value>241</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Frame Blending" id="305" flags="65618" default="0" value="0"/>
+					<parameter name="End Condition" id="306" flags="65618" default="0" value="0"/>
+					<parameter name="End Duration" id="307" flags="32850" default="0" value="0"/>
+					<parameter name="Duration Cache" id="320" flags="82" default="0" value="240"/>
+					<parameter name="Layer" id="308" flags="65618" default="0" value="0"/>
+				</parameter>
+				<parameter name="Object" id="2" flags="4176">
+					<parameter name="Drop Zone" id="311" flags="208" default="0" value="0"/>
+					<parameter name="Fit" id="317" flags="65616" default="0" value="0"/>
+					<parameter name="Replaced" id="312" flags="82" default="0" value="0"/>
+					<parameter name="Fit Factor" id="318" flags="4178">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Y" id="2" flags="80" default="1" value="1"/>
+					</parameter>
+					<parameter name="Clear" id="315" flags="65616" default="0" value="0"/>
+					<parameter name="Width" id="313" flags="82" default="0" value="64"/>
+					<parameter name="Height" id="314" flags="82" default="0" value="640"/>
+				</parameter>
+			</scenenode>
+			<override>0</override>
+			<aspectRatio>1</aspectRatio>
+			<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+			<flags>0</flags>
+			<timing in="0" out="239" offset="0"/>
+			<foldFlags>1</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="4176">
+				<parameter name="Transform" id="100" flags="4176">
+					<parameter name="Position" id="101" flags="4176">
+						<foldFlags>11</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="-110"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						<parameter name="Z" id="3" flags="80" default="0" value="70"/>
+					</parameter>
+					<parameter name="Rotation" id="109" flags="4176">
+						<foldFlags>11</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0.3490658503988659"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="2.094395102393195"/>
+						<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+						<parameter name="Animate" id="4" flags="65600" default="0" value="0"/>
+					</parameter>
+					<parameter name="Scale" id="105" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Y" id="2" flags="80" default="1" value="1"/>
+						<parameter name="Z" id="3" flags="80" default="1" value="1"/>
+					</parameter>
+					<parameter name="Shear" id="106" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Anchor Point" id="107" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Rotation" id="102" flags="82" default="0" value="0"/>
+				</parameter>
+				<parameter name="Blending" id="200" flags="4176">
+					<parameter name="Opacity" id="202" flags="2128" default="1" value="1"/>
+					<parameter name="Blend Mode" id="203" flags="67664" default="34" value="34"/>
+					<parameter name="Preserve Opacity" id="217" flags="2128" default="0" value="0"/>
+					<parameter name="Casts Reflection" id="236" flags="65616" default="0" value="0"/>
+				</parameter>
+				<parameter name="Lighting" id="230" flags="4176">
+					<foldFlags>15</foldFlags>
+					<parameter name="Shading" id="230" flags="65616" default="0" value="0"/>
+					<parameter name="Highlights" id="231" flags="36946">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Ambient Color" id="1" flags="4178">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+							<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+							<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+							<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+							<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+						</parameter>
+						<parameter name="Ambient Index" id="2" flags="82" default="0" value="0"/>
+						<parameter name="Diffuse Color" id="3" flags="4178">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+							<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+							<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+							<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+							<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+						</parameter>
+						<parameter name="Diffuse Index" id="4" flags="82" default="0" value="0"/>
+						<parameter name="Specular Color" id="5" flags="4178">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+							<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+							<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+							<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+							<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+						</parameter>
+						<parameter name="Specular Index" id="6" flags="82" default="0" value="0"/>
+						<parameter name="Emission Color" id="7" flags="4178">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+							<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+							<parameter name="Opacity" id="4" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Shininess" id="8" flags="80" default="50" value="50"/>
+					</parameter>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="4178">
+					<foldFlags>15</foldFlags>
+					<parameter name="Cast Shadows" id="1" flags="80" default="1" value="1"/>
+					<parameter name="Receive Shadows" id="2" flags="80" default="1" value="1"/>
+					<parameter name="Shadows Only" id="3" flags="80" default="0" value="0"/>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="36944">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Reflectivity" id="228" flags="80" default="0.8" value="0.8"/>
+					<parameter name="Blur Amount" id="229" flags="80" default="0" value="0"/>
+					<parameter name="Falloff" id="224" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Begin Distance" id="225" flags="80" default="0" value="0"/>
+						<parameter name="End Distance" id="226" flags="80" default="500" value="500"/>
+						<parameter name="Exponent" id="235" flags="80" default="1.8" value="1.8"/>
+					</parameter>
+					<parameter name="Blend Mode" id="227" flags="65616" default="0" value="0"/>
+				</parameter>
+				<parameter name="Drop Shadow" id="208" flags="38994">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Color" id="210" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+						<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+						<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+					</parameter>
+					<parameter name="Opacity" id="211" flags="80" default="0.75" value="0.75"/>
+					<parameter name="Blur" id="213" flags="80" default="5" value="5"/>
+					<parameter name="Distance" id="212" flags="80" default="5" value="5"/>
+					<parameter name="Angle" id="214" flags="80" default="5.497787143782138" value="5.497787143782138"/>
+					<parameter name="Fixed Source" id="232" flags="80" default="0" value="0"/>
+				</parameter>
+				<parameter name="Four Corner" id="207" flags="38978">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Bottom Left" id="1" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Bottom Right" id="2" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Top Right" id="3" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Top Left" id="4" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+					</parameter>
+				</parameter>
+				<parameter name="Crop" id="216" flags="38994">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Left" id="1" flags="80" default="0" value="0"/>
+					<parameter name="Right" id="2" flags="80" default="0" value="0"/>
+					<parameter name="Bottom" id="3" flags="80" default="0" value="0"/>
+					<parameter name="Top" id="4" flags="80" default="0" value="0"/>
+				</parameter>
+				<parameter name="Timing" id="233" flags="4178">
+					<foldFlags>4</foldFlags>
+				</parameter>
+			</parameter>
+			<parameter name="Object" id="2" flags="4176">
+				<parameter name="Type" id="307" flags="65616" default="0" value="1"/>
+				<parameter name="Fixed Resolution" id="301" flags="2130" default="0" value="0"/>
+				<parameter name="Fixed Width" id="302" flags="86" default="1280" value="1280"/>
+				<parameter name="Fixed Height" id="303" flags="86" default="720" value="720"/>
+				<parameter name="Flatten" id="311" flags="80" default="0" value="0"/>
+				<parameter name="Layer Order" id="305" flags="80" default="0" value="0"/>
+				<parameter name="Aperture Width" id="312" flags="82" default="1280" value="1280"/>
+				<parameter name="Aperture Height" id="313" flags="82" default="720" value="720"/>
+				<parameter name="Hidden Channel" id="314" flags="82" default="4" value="4"/>
+			</parameter>
+		</layer>
+		<layer name="Leg" id="10000">
+			<scenenode name="TripodLeg copy 1" id="10011" factoryID="1" version="4">
+				<validTracks>0</validTracks>
+				<override>0</override>
+				<aspectRatio>1</aspectRatio>
+				<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+				<flags>0</flags>
+				<timing in="0" out="239" offset="0"/>
+				<foldFlags>16384</foldFlags>
+				<baseFlags>524304</baseFlags>
+				<parameter name="Properties" id="1" flags="4176">
+					<parameter name="Transform" id="100" flags="4176">
+						<parameter name="Position" id="101" flags="4176">
+							<foldFlags>11</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="-17"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="-25"/>
+						</parameter>
+						<parameter name="Rotation" id="109" flags="4176">
+							<foldFlags>11</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="-2.129301687433082"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+							<parameter name="Animate" id="4" flags="65600" default="0" value="0"/>
+						</parameter>
+						<parameter name="Scale" id="105" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="1" value="1"/>
+							<parameter name="Y" id="2" flags="80" default="1" value="1"/>
+							<parameter name="Z" id="3" flags="80" default="1" value="1"/>
+						</parameter>
+						<parameter name="Shear" id="106" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Anchor Point" id="107" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Rotation" id="102" flags="82" default="0" value="0"/>
+					</parameter>
+					<parameter name="Blending" id="200" flags="4176">
+						<parameter name="Opacity" id="202" flags="80" default="1" value="1"/>
+						<parameter name="Blend Mode" id="203" flags="65616" default="0" value="0"/>
+						<parameter name="Preserve Opacity" id="217" flags="80" default="0" value="0"/>
+						<parameter name="Casts Reflection" id="236" flags="65616" default="0" value="0"/>
+					</parameter>
+					<parameter name="Lighting" id="230" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="Shading" id="230" flags="65616" default="0" value="0"/>
+						<parameter name="Highlights" id="231" flags="36944">
+							<foldFlags>131087</foldFlags>
+							<parameter name="Ambient Color" id="1" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Ambient Index" id="2" flags="82" default="0" value="0"/>
+							<parameter name="Diffuse Color" id="3" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Diffuse Index" id="4" flags="82" default="0" value="0"/>
+							<parameter name="Specular Color" id="5" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Specular Index" id="6" flags="82" default="0" value="0"/>
+							<parameter name="Emission Color" id="7" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+								<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+								<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="0" value="0"/>
+							</parameter>
+							<parameter name="Shininess" id="8" flags="80" default="50" value="50"/>
+						</parameter>
+					</parameter>
+					<parameter name="Shadows" id="234" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="Cast Shadows" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Receive Shadows" id="2" flags="80" default="1" value="1"/>
+						<parameter name="Shadows Only" id="3" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Reflection" id="223" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Reflectivity" id="228" flags="80" default="0.8" value="0.8"/>
+						<parameter name="Blur Amount" id="229" flags="80" default="0" value="0"/>
+						<parameter name="Falloff" id="224" flags="36944">
+							<foldFlags>131087</foldFlags>
+							<parameter name="Begin Distance" id="225" flags="80" default="0" value="0"/>
+							<parameter name="End Distance" id="226" flags="80" default="500" value="500"/>
+							<parameter name="Exponent" id="235" flags="80" default="1.8" value="1.8"/>
+						</parameter>
+						<parameter name="Blend Mode" id="227" flags="65616" default="0" value="0"/>
+					</parameter>
+					<parameter name="Drop Shadow" id="208" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Color" id="210" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+							<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+						</parameter>
+						<parameter name="Opacity" id="211" flags="80" default="0.75" value="0.75"/>
+						<parameter name="Blur" id="213" flags="80" default="5" value="5"/>
+						<parameter name="Distance" id="212" flags="80" default="5" value="5"/>
+						<parameter name="Angle" id="214" flags="80" default="5.497787143782138" value="5.497787143782138"/>
+						<parameter name="Fixed Source" id="232" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Four Corner" id="207" flags="36928">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Bottom Left" id="1" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Bottom Right" id="2" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Top Right" id="3" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Top Left" id="4" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+					</parameter>
+					<parameter name="Crop" id="216" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Left" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Right" id="2" flags="80" default="0" value="0"/>
+						<parameter name="Bottom" id="3" flags="80" default="0" value="0"/>
+						<parameter name="Top" id="4" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Timing" id="233" flags="4178">
+						<foldFlags>4</foldFlags>
+					</parameter>
+					<parameter name="Media" id="300" flags="65616" default="0" value="10003"/>
+					<parameter name="Page Number" id="301" flags="82" default="0" value="0"/>
+					<parameter name="Background Color" id="302" flags="69714">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+						<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+						<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+						<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+					</parameter>
+					<parameter name="Speed" id="309" flags="4259920" default="1" value="1"/>
+					<parameter name="Reverse" id="310" flags="4259920" default="0" value="0"/>
+					<parameter name="Time Remap" id="303" flags="65618" default="0" value="0"/>
+					<parameter name="Retime Value" id="304" flags="131410">
+						<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="32">
+								<time>0</time>
+								<value>1</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="32">
+								<time>240</time>
+								<value>241</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Retime Value Cache" id="319" flags="131154">
+						<curve type="1" default="1" value="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="160">
+								<time>0</time>
+								<value>1</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="160">
+								<time>240</time>
+								<value>241</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Frame Blending" id="305" flags="65618" default="0" value="0"/>
+					<parameter name="End Condition" id="306" flags="65618" default="0" value="0"/>
+					<parameter name="End Duration" id="307" flags="32850" default="0" value="0"/>
+					<parameter name="Duration Cache" id="320" flags="82" default="0" value="240"/>
+					<parameter name="Layer" id="308" flags="65618" default="0" value="0"/>
+				</parameter>
+				<parameter name="Object" id="2" flags="4176">
+					<parameter name="Drop Zone" id="311" flags="208" default="0" value="0"/>
+					<parameter name="Fit" id="317" flags="65616" default="0" value="0"/>
+					<parameter name="Replaced" id="312" flags="82" default="0" value="0"/>
+					<parameter name="Fit Factor" id="318" flags="4178">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Y" id="2" flags="80" default="1" value="1"/>
+					</parameter>
+					<parameter name="Clear" id="315" flags="65616" default="0" value="0"/>
+					<parameter name="Width" id="313" flags="82" default="0" value="64"/>
+					<parameter name="Height" id="314" flags="82" default="0" value="640"/>
+				</parameter>
+			</scenenode>
+			<scenenode name="TripodLeg copy" id="10007" factoryID="1" version="4">
+				<validTracks>0</validTracks>
+				<override>0</override>
+				<aspectRatio>1</aspectRatio>
+				<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+				<flags>0</flags>
+				<timing in="0" out="239" offset="0"/>
+				<foldFlags>16384</foldFlags>
+				<baseFlags>524304</baseFlags>
+				<parameter name="Properties" id="1" flags="4176">
+					<parameter name="Transform" id="100" flags="4176">
+						<parameter name="Position" id="101" flags="4176">
+							<foldFlags>11</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="16"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="-25"/>
+						</parameter>
+						<parameter name="Rotation" id="109" flags="4176">
+							<foldFlags>11</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="2.129301687433082"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+							<parameter name="Animate" id="4" flags="65600" default="0" value="0"/>
+						</parameter>
+						<parameter name="Scale" id="105" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="1" value="1"/>
+							<parameter name="Y" id="2" flags="80" default="1" value="1"/>
+							<parameter name="Z" id="3" flags="80" default="1" value="1"/>
+						</parameter>
+						<parameter name="Shear" id="106" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Anchor Point" id="107" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Rotation" id="102" flags="82" default="0" value="0"/>
+					</parameter>
+					<parameter name="Blending" id="200" flags="4176">
+						<parameter name="Opacity" id="202" flags="80" default="1" value="1"/>
+						<parameter name="Blend Mode" id="203" flags="65616" default="0" value="0"/>
+						<parameter name="Preserve Opacity" id="217" flags="80" default="0" value="0"/>
+						<parameter name="Casts Reflection" id="236" flags="65616" default="0" value="0"/>
+					</parameter>
+					<parameter name="Lighting" id="230" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="Shading" id="230" flags="65616" default="0" value="0"/>
+						<parameter name="Highlights" id="231" flags="36944">
+							<foldFlags>131087</foldFlags>
+							<parameter name="Ambient Color" id="1" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Ambient Index" id="2" flags="82" default="0" value="0"/>
+							<parameter name="Diffuse Color" id="3" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Diffuse Index" id="4" flags="82" default="0" value="0"/>
+							<parameter name="Specular Color" id="5" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+							</parameter>
+							<parameter name="Specular Index" id="6" flags="82" default="0" value="0"/>
+							<parameter name="Emission Color" id="7" flags="4178">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+								<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+								<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+								<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="80" default="0" value="0"/>
+							</parameter>
+							<parameter name="Shininess" id="8" flags="80" default="50" value="50"/>
+						</parameter>
+					</parameter>
+					<parameter name="Shadows" id="234" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="Cast Shadows" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Receive Shadows" id="2" flags="80" default="1" value="1"/>
+						<parameter name="Shadows Only" id="3" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Reflection" id="223" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Reflectivity" id="228" flags="80" default="0.8" value="0.8"/>
+						<parameter name="Blur Amount" id="229" flags="80" default="0" value="0"/>
+						<parameter name="Falloff" id="224" flags="36944">
+							<foldFlags>131087</foldFlags>
+							<parameter name="Begin Distance" id="225" flags="80" default="0" value="0"/>
+							<parameter name="End Distance" id="226" flags="80" default="500" value="500"/>
+							<parameter name="Exponent" id="235" flags="80" default="1.8" value="1.8"/>
+						</parameter>
+						<parameter name="Blend Mode" id="227" flags="65616" default="0" value="0"/>
+					</parameter>
+					<parameter name="Drop Shadow" id="208" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Color" id="210" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+							<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+						</parameter>
+						<parameter name="Opacity" id="211" flags="80" default="0.75" value="0.75"/>
+						<parameter name="Blur" id="213" flags="80" default="5" value="5"/>
+						<parameter name="Distance" id="212" flags="80" default="5" value="5"/>
+						<parameter name="Angle" id="214" flags="80" default="5.497787143782138" value="5.497787143782138"/>
+						<parameter name="Fixed Source" id="232" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Four Corner" id="207" flags="36928">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Bottom Left" id="1" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Bottom Right" id="2" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Top Right" id="3" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Top Left" id="4" flags="4176">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						</parameter>
+					</parameter>
+					<parameter name="Crop" id="216" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Left" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Right" id="2" flags="80" default="0" value="0"/>
+						<parameter name="Bottom" id="3" flags="80" default="0" value="0"/>
+						<parameter name="Top" id="4" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Timing" id="233" flags="4178">
+						<foldFlags>4</foldFlags>
+					</parameter>
+					<parameter name="Media" id="300" flags="65616" default="0" value="10003"/>
+					<parameter name="Page Number" id="301" flags="82" default="0" value="0"/>
+					<parameter name="Background Color" id="302" flags="69714">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+						<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+						<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+						<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+					</parameter>
+					<parameter name="Speed" id="309" flags="4259920" default="1" value="1"/>
+					<parameter name="Reverse" id="310" flags="4259920" default="0" value="0"/>
+					<parameter name="Time Remap" id="303" flags="65618" default="0" value="0"/>
+					<parameter name="Retime Value" id="304" flags="131410">
+						<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="32">
+								<time>0</time>
+								<value>1</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="32">
+								<time>240</time>
+								<value>241</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Retime Value Cache" id="319" flags="131154">
+						<curve type="1" default="1" value="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="160">
+								<time>0</time>
+								<value>1</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="160">
+								<time>240</time>
+								<value>241</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Frame Blending" id="305" flags="65618" default="0" value="0"/>
+					<parameter name="End Condition" id="306" flags="65618" default="0" value="0"/>
+					<parameter name="End Duration" id="307" flags="32850" default="0" value="0"/>
+					<parameter name="Duration Cache" id="320" flags="82" default="0" value="240"/>
+					<parameter name="Layer" id="308" flags="65618" default="0" value="0"/>
+				</parameter>
+				<parameter name="Object" id="2" flags="4176">
+					<parameter name="Drop Zone" id="311" flags="208" default="0" value="0"/>
+					<parameter name="Fit" id="317" flags="65616" default="0" value="0"/>
+					<parameter name="Replaced" id="312" flags="82" default="0" value="0"/>
+					<parameter name="Fit Factor" id="318" flags="4178">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="1" value="1"/>
+						<parameter name="Y" id="2" flags="80" default="1" value="1"/>
+					</parameter>
+					<parameter name="Clear" id="315" flags="65616" default="0" value="0"/>
+					<parameter name="Width" id="313" flags="82" default="0" value="64"/>
+					<parameter name="Height" id="314" flags="82" default="0" value="640"/>
+				</parameter>
+			</scenenode>
+			<scenenode name="TripodLeg" id="10005" factoryID="1" version="4">
+				<validTracks>0</validTracks>
+				<override>0</override>
+				<aspectRatio>1</aspectRatio>
+				<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+				<flags>0</flags>
+				<timing in="0" out="239" offset="0"/>
+				<foldFlags>16384</foldFlags>
+				<baseFlags>524304</baseFlags>
+				<parameter name="Properties" id="1" flags="4112">
+					<parameter name="Transform" id="100" flags="4112">
+						<parameter name="Position" id="101" flags="4112">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="16" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="16" default="0" value="0"/>
+						</parameter>
+						<parameter name="Rotation" id="109" flags="4112">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="16" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="16" default="0" value="0"/>
+							<parameter name="Animate" id="4" flags="65536" default="0" value="0"/>
+						</parameter>
+						<parameter name="Scale" id="105" flags="4112">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="16" default="1" value="1"/>
+							<parameter name="Y" id="2" flags="16" default="1" value="1"/>
+							<parameter name="Z" id="3" flags="16" default="1" value="1"/>
+						</parameter>
+						<parameter name="Shear" id="106" flags="4112">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="16" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+						</parameter>
+						<parameter name="Anchor Point" id="107" flags="4112">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="16" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="16" default="0" value="0"/>
+						</parameter>
+						<parameter name="Rotation" id="102" flags="18" default="0" value="0"/>
+					</parameter>
+					<parameter name="Blending" id="200" flags="4112">
+						<parameter name="Opacity" id="202" flags="16" default="1" value="1"/>
+						<parameter name="Blend Mode" id="203" flags="65552" default="0" value="0"/>
+						<parameter name="Preserve Opacity" id="217" flags="16" default="0" value="0"/>
+						<parameter name="Casts Reflection" id="236" flags="65552" default="0" value="0"/>
+					</parameter>
+					<parameter name="Lighting" id="230" flags="4112">
+						<foldFlags>15</foldFlags>
+						<parameter name="Shading" id="230" flags="65552" default="0" value="0"/>
+						<parameter name="Highlights" id="231" flags="36880">
+							<foldFlags>131087</foldFlags>
+							<parameter name="Ambient Color" id="1" flags="4114">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="16" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="16" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="16" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="16" default="1" value="1"/>
+							</parameter>
+							<parameter name="Ambient Index" id="2" flags="18" default="0" value="0"/>
+							<parameter name="Diffuse Color" id="3" flags="4114">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="16" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="16" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="16" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="16" default="1" value="1"/>
+							</parameter>
+							<parameter name="Diffuse Index" id="4" flags="18" default="0" value="0"/>
+							<parameter name="Specular Color" id="5" flags="4114">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="16" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="16" default="1" value="1"/>
+								<parameter name="Blue" id="3" flags="16" default="1" value="1"/>
+								<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="16" default="1" value="1"/>
+							</parameter>
+							<parameter name="Specular Index" id="6" flags="18" default="0" value="0"/>
+							<parameter name="Emission Color" id="7" flags="4114">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="16" default="0" value="0"/>
+								<parameter name="Green" id="2" flags="16" default="0" value="0"/>
+								<parameter name="Blue" id="3" flags="16" default="0" value="0"/>
+								<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+								<parameter name="Opacity" id="4" flags="16" default="0" value="0"/>
+							</parameter>
+							<parameter name="Shininess" id="8" flags="16" default="50" value="50"/>
+						</parameter>
+					</parameter>
+					<parameter name="Shadows" id="234" flags="4112">
+						<foldFlags>15</foldFlags>
+						<parameter name="Cast Shadows" id="1" flags="16" default="1" value="1"/>
+						<parameter name="Receive Shadows" id="2" flags="16" default="1" value="1"/>
+						<parameter name="Shadows Only" id="3" flags="16" default="0" value="0"/>
+					</parameter>
+					<parameter name="Reflection" id="223" flags="36880">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Reflectivity" id="228" flags="16" default="0.8" value="0.8"/>
+						<parameter name="Blur Amount" id="229" flags="16" default="0" value="0"/>
+						<parameter name="Falloff" id="224" flags="36880">
+							<foldFlags>131087</foldFlags>
+							<parameter name="Begin Distance" id="225" flags="16" default="0" value="0"/>
+							<parameter name="End Distance" id="226" flags="16" default="500" value="500"/>
+							<parameter name="Exponent" id="235" flags="16" default="1.8" value="1.8"/>
+						</parameter>
+						<parameter name="Blend Mode" id="227" flags="65552" default="0" value="0"/>
+					</parameter>
+					<parameter name="Drop Shadow" id="208" flags="36880">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Color" id="210" flags="4112">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="16" default="0" value="0"/>
+							<parameter name="Green" id="2" flags="16" default="0" value="0"/>
+							<parameter name="Blue" id="3" flags="16" default="0" value="0"/>
+							<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+						</parameter>
+						<parameter name="Opacity" id="211" flags="16" default="0.75" value="0.75"/>
+						<parameter name="Blur" id="213" flags="16" default="5" value="5"/>
+						<parameter name="Distance" id="212" flags="16" default="5" value="5"/>
+						<parameter name="Angle" id="214" flags="16" default="5.497787143782138" value="5.497787143782138"/>
+						<parameter name="Fixed Source" id="232" flags="16" default="0" value="0"/>
+					</parameter>
+					<parameter name="Four Corner" id="207" flags="36864">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Bottom Left" id="1" flags="4112">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="16" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+						</parameter>
+						<parameter name="Bottom Right" id="2" flags="4112">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="16" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+						</parameter>
+						<parameter name="Top Right" id="3" flags="4112">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="16" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+						</parameter>
+						<parameter name="Top Left" id="4" flags="4112">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="16" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+						</parameter>
+					</parameter>
+					<parameter name="Crop" id="216" flags="36880">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Left" id="1" flags="16" default="0" value="0"/>
+						<parameter name="Right" id="2" flags="16" default="0" value="0"/>
+						<parameter name="Bottom" id="3" flags="16" default="0" value="0"/>
+						<parameter name="Top" id="4" flags="16" default="0" value="0"/>
+					</parameter>
+					<parameter name="Timing" id="233" flags="4114">
+						<foldFlags>4</foldFlags>
+					</parameter>
+					<parameter name="Media" id="300" flags="65552" default="0" value="10003"/>
+					<parameter name="Page Number" id="301" flags="18" default="0" value="0"/>
+					<parameter name="Background Color" id="302" flags="69650">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="16" default="1" value="1"/>
+						<parameter name="Green" id="2" flags="16" default="1" value="1"/>
+						<parameter name="Blue" id="3" flags="16" default="1" value="1"/>
+						<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+						<parameter name="Opacity" id="4" flags="16" default="1" value="1"/>
+					</parameter>
+					<parameter name="Speed" id="309" flags="4259856" default="1" value="1"/>
+					<parameter name="Reverse" id="310" flags="4259856" default="0" value="0"/>
+					<parameter name="Time Remap" id="303" flags="65554" default="0" value="0"/>
+					<parameter name="Retime Value" id="304" flags="131346">
+						<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="32">
+								<time>0</time>
+								<value>1</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="32">
+								<time>240</time>
+								<value>241</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Retime Value Cache" id="319" flags="131090">
+						<curve type="1" default="1" value="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="160">
+								<time>0</time>
+								<value>1</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="160">
+								<time>240</time>
+								<value>241</value>
+								<normal>0</normal>
+								<inputTangentTime>-80</inputTangentTime>
+								<inputTangentValue>-80.00000000000001</inputTangentValue>
+								<outputTangentTime>80</outputTangentTime>
+								<outputTangentValue>80.00000000000001</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Frame Blending" id="305" flags="65554" default="0" value="0"/>
+					<parameter name="End Condition" id="306" flags="65554" default="0" value="0"/>
+					<parameter name="End Duration" id="307" flags="32786" default="0" value="0"/>
+					<parameter name="Duration Cache" id="320" flags="18" default="0" value="240"/>
+					<parameter name="Layer" id="308" flags="65554" default="0" value="0"/>
+				</parameter>
+				<parameter name="Object" id="2" flags="4112">
+					<parameter name="Drop Zone" id="311" flags="144" default="0" value="0"/>
+					<parameter name="Fit" id="317" flags="65552" default="0" value="0"/>
+					<parameter name="Replaced" id="312" flags="18" default="0" value="0"/>
+					<parameter name="Fit Factor" id="318" flags="4114">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="16" default="1" value="1"/>
+						<parameter name="Y" id="2" flags="16" default="1" value="1"/>
+					</parameter>
+					<parameter name="Clear" id="315" flags="65552" default="0" value="0"/>
+					<parameter name="Width" id="313" flags="18" default="0" value="64"/>
+					<parameter name="Height" id="314" flags="18" default="0" value="640"/>
+				</parameter>
+			</scenenode>
+			<override>0</override>
+			<aspectRatio>1</aspectRatio>
+			<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+			<flags>0</flags>
+			<timing in="0" out="239" offset="0"/>
+			<foldFlags>1</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="4112">
+				<parameter name="Transform" id="100" flags="4112">
+					<parameter name="Position" id="101" flags="4112">
+						<foldFlags>11</foldFlags>
+						<parameter name="X" id="1" flags="16" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+						<parameter name="Z" id="3" flags="16" default="0" value="-120"/>
+					</parameter>
+					<parameter name="Rotation" id="109" flags="4112">
+						<foldFlags>11</foldFlags>
+						<parameter name="X" id="1" flags="16" default="0" value="0.3490658503988659"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						<parameter name="Z" id="3" flags="16" default="0" value="0"/>
+						<parameter name="Animate" id="4" flags="65536" default="0" value="0"/>
+					</parameter>
+					<parameter name="Scale" id="105" flags="4112">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="16" default="1" value="1"/>
+						<parameter name="Y" id="2" flags="16" default="1" value="1"/>
+						<parameter name="Z" id="3" flags="16" default="1" value="1"/>
+					</parameter>
+					<parameter name="Shear" id="106" flags="4112">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="16" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+					</parameter>
+					<parameter name="Anchor Point" id="107" flags="4112">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="16" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+						<parameter name="Z" id="3" flags="16" default="0" value="0"/>
+					</parameter>
+					<parameter name="Rotation" id="102" flags="18" default="0" value="0"/>
+				</parameter>
+				<parameter name="Blending" id="200" flags="4112">
+					<parameter name="Opacity" id="202" flags="2064" default="1" value="1"/>
+					<parameter name="Blend Mode" id="203" flags="67600" default="34" value="34"/>
+					<parameter name="Preserve Opacity" id="217" flags="2064" default="0" value="0"/>
+					<parameter name="Casts Reflection" id="236" flags="65552" default="0" value="0"/>
+				</parameter>
+				<parameter name="Lighting" id="230" flags="4112">
+					<foldFlags>15</foldFlags>
+					<parameter name="Shading" id="230" flags="65552" default="0" value="0"/>
+					<parameter name="Highlights" id="231" flags="36882">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Ambient Color" id="1" flags="4114">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="16" default="1" value="1"/>
+							<parameter name="Green" id="2" flags="16" default="1" value="1"/>
+							<parameter name="Blue" id="3" flags="16" default="1" value="1"/>
+							<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+							<parameter name="Opacity" id="4" flags="16" default="1" value="1"/>
+						</parameter>
+						<parameter name="Ambient Index" id="2" flags="18" default="0" value="0"/>
+						<parameter name="Diffuse Color" id="3" flags="4114">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="16" default="1" value="1"/>
+							<parameter name="Green" id="2" flags="16" default="1" value="1"/>
+							<parameter name="Blue" id="3" flags="16" default="1" value="1"/>
+							<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+							<parameter name="Opacity" id="4" flags="16" default="1" value="1"/>
+						</parameter>
+						<parameter name="Diffuse Index" id="4" flags="18" default="0" value="0"/>
+						<parameter name="Specular Color" id="5" flags="4114">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="16" default="1" value="1"/>
+							<parameter name="Green" id="2" flags="16" default="1" value="1"/>
+							<parameter name="Blue" id="3" flags="16" default="1" value="1"/>
+							<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+							<parameter name="Opacity" id="4" flags="16" default="1" value="1"/>
+						</parameter>
+						<parameter name="Specular Index" id="6" flags="18" default="0" value="0"/>
+						<parameter name="Emission Color" id="7" flags="4114">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="16" default="0" value="0"/>
+							<parameter name="Green" id="2" flags="16" default="0" value="0"/>
+							<parameter name="Blue" id="3" flags="16" default="0" value="0"/>
+							<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+							<parameter name="Opacity" id="4" flags="16" default="0" value="0"/>
+						</parameter>
+						<parameter name="Shininess" id="8" flags="16" default="50" value="50"/>
+					</parameter>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="4114">
+					<foldFlags>15</foldFlags>
+					<parameter name="Cast Shadows" id="1" flags="16" default="1" value="1"/>
+					<parameter name="Receive Shadows" id="2" flags="16" default="1" value="1"/>
+					<parameter name="Shadows Only" id="3" flags="16" default="0" value="0"/>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="36880">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Reflectivity" id="228" flags="16" default="0.8" value="0.8"/>
+					<parameter name="Blur Amount" id="229" flags="16" default="0" value="0"/>
+					<parameter name="Falloff" id="224" flags="36880">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Begin Distance" id="225" flags="16" default="0" value="0"/>
+						<parameter name="End Distance" id="226" flags="16" default="500" value="500"/>
+						<parameter name="Exponent" id="235" flags="16" default="1.8" value="1.8"/>
+					</parameter>
+					<parameter name="Blend Mode" id="227" flags="65552" default="0" value="0"/>
+				</parameter>
+				<parameter name="Drop Shadow" id="208" flags="38930">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Color" id="210" flags="4112">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="16" default="0" value="0"/>
+						<parameter name="Green" id="2" flags="16" default="0" value="0"/>
+						<parameter name="Blue" id="3" flags="16" default="0" value="0"/>
+						<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+					</parameter>
+					<parameter name="Opacity" id="211" flags="16" default="0.75" value="0.75"/>
+					<parameter name="Blur" id="213" flags="16" default="5" value="5"/>
+					<parameter name="Distance" id="212" flags="16" default="5" value="5"/>
+					<parameter name="Angle" id="214" flags="16" default="5.497787143782138" value="5.497787143782138"/>
+					<parameter name="Fixed Source" id="232" flags="16" default="0" value="0"/>
+				</parameter>
+				<parameter name="Four Corner" id="207" flags="38914">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Bottom Left" id="1" flags="4112">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="16" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+					</parameter>
+					<parameter name="Bottom Right" id="2" flags="4112">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="16" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+					</parameter>
+					<parameter name="Top Right" id="3" flags="4112">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="16" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+					</parameter>
+					<parameter name="Top Left" id="4" flags="4112">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="16" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+					</parameter>
+				</parameter>
+				<parameter name="Crop" id="216" flags="38930">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Left" id="1" flags="16" default="0" value="0"/>
+					<parameter name="Right" id="2" flags="16" default="0" value="0"/>
+					<parameter name="Bottom" id="3" flags="16" default="0" value="0"/>
+					<parameter name="Top" id="4" flags="16" default="0" value="0"/>
+				</parameter>
+				<parameter name="Timing" id="233" flags="4114">
+					<foldFlags>4</foldFlags>
+				</parameter>
+			</parameter>
+			<parameter name="Object" id="2" flags="4112">
+				<parameter name="Type" id="307" flags="65552" default="0" value="1"/>
+				<parameter name="Fixed Resolution" id="301" flags="2066" default="0" value="0"/>
+				<parameter name="Fixed Width" id="302" flags="22" default="1280" value="1280"/>
+				<parameter name="Fixed Height" id="303" flags="22" default="720" value="720"/>
+				<parameter name="Flatten" id="311" flags="16" default="0" value="0"/>
+				<parameter name="Layer Order" id="305" flags="16" default="0" value="0"/>
+				<parameter name="Aperture Width" id="312" flags="18" default="1280" value="1280"/>
+				<parameter name="Aperture Height" id="313" flags="18" default="720" value="720"/>
+				<parameter name="Hidden Channel" id="314" flags="18" default="4" value="4"/>
+			</parameter>
+		</layer>
+		<scenenode name="TripodMount copy" id="10035" factoryID="1" version="4">
+			<validTracks>0</validTracks>
+			<override>0</override>
+			<aspectRatio>1</aspectRatio>
+			<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+			<flags>0</flags>
+			<timing in="0" out="239" offset="0"/>
+			<foldFlags>16384</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="4176">
+				<parameter name="Transform" id="100" flags="4176">
+					<parameter name="Position" id="101" flags="4176">
+						<foldFlags>11</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="311"/>
+						<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Rotation" id="109" flags="4176">
+						<foldFlags>11</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="1.570796326794897"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+						<parameter name="Animate" id="4" flags="65600" default="0" value="0"/>
+					</parameter>
+					<parameter name="Scale" id="105" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="1" value="0.38"/>
+						<parameter name="Y" id="2" flags="80" default="1" value="0.38"/>
+						<parameter name="Z" id="3" flags="80" default="1" value="0.38"/>
+					</parameter>
+					<parameter name="Shear" id="106" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Anchor Point" id="107" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+						<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Rotation" id="102" flags="82" default="0" value="0"/>
+				</parameter>
+				<parameter name="Blending" id="200" flags="4176">
+					<parameter name="Opacity" id="202" flags="80" default="1" value="1"/>
+					<parameter name="Blend Mode" id="203" flags="65616" default="0" value="0"/>
+					<parameter name="Preserve Opacity" id="217" flags="80" default="0" value="0"/>
+					<parameter name="Casts Reflection" id="236" flags="65616" default="0" value="0"/>
+				</parameter>
+				<parameter name="Lighting" id="230" flags="4176">
+					<foldFlags>15</foldFlags>
+					<parameter name="Shading" id="230" flags="65616" default="0" value="0"/>
+					<parameter name="Highlights" id="231" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Ambient Color" id="1" flags="4178">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+							<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+							<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+							<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+							<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+						</parameter>
+						<parameter name="Ambient Index" id="2" flags="82" default="0" value="0"/>
+						<parameter name="Diffuse Color" id="3" flags="4178">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+							<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+							<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+							<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+							<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+						</parameter>
+						<parameter name="Diffuse Index" id="4" flags="82" default="0" value="0"/>
+						<parameter name="Specular Color" id="5" flags="4178">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+							<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+							<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+							<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+							<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+						</parameter>
+						<parameter name="Specular Index" id="6" flags="82" default="0" value="0"/>
+						<parameter name="Emission Color" id="7" flags="4178">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+							<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+							<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+							<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+							<parameter name="Opacity" id="4" flags="80" default="0" value="0"/>
+						</parameter>
+						<parameter name="Shininess" id="8" flags="80" default="50" value="50"/>
+					</parameter>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="4176">
+					<foldFlags>15</foldFlags>
+					<parameter name="Cast Shadows" id="1" flags="80" default="1" value="1"/>
+					<parameter name="Receive Shadows" id="2" flags="80" default="1" value="1"/>
+					<parameter name="Shadows Only" id="3" flags="80" default="0" value="0"/>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="36944">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Reflectivity" id="228" flags="80" default="0.8" value="0.8"/>
+					<parameter name="Blur Amount" id="229" flags="80" default="0" value="0"/>
+					<parameter name="Falloff" id="224" flags="36944">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Begin Distance" id="225" flags="80" default="0" value="0"/>
+						<parameter name="End Distance" id="226" flags="80" default="500" value="500"/>
+						<parameter name="Exponent" id="235" flags="80" default="1.8" value="1.8"/>
+					</parameter>
+					<parameter name="Blend Mode" id="227" flags="65616" default="0" value="0"/>
+				</parameter>
+				<parameter name="Drop Shadow" id="208" flags="36944">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Color" id="210" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+						<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+						<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+					</parameter>
+					<parameter name="Opacity" id="211" flags="80" default="0.75" value="0.75"/>
+					<parameter name="Blur" id="213" flags="80" default="5" value="5"/>
+					<parameter name="Distance" id="212" flags="80" default="5" value="5"/>
+					<parameter name="Angle" id="214" flags="80" default="5.497787143782138" value="5.497787143782138"/>
+					<parameter name="Fixed Source" id="232" flags="80" default="0" value="0"/>
+				</parameter>
+				<parameter name="Four Corner" id="207" flags="36928">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Bottom Left" id="1" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Bottom Right" id="2" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Top Right" id="3" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+					</parameter>
+					<parameter name="Top Left" id="4" flags="4176">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="80" default="0" value="0"/>
+					</parameter>
+				</parameter>
+				<parameter name="Crop" id="216" flags="36944">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Left" id="1" flags="80" default="0" value="0"/>
+					<parameter name="Right" id="2" flags="80" default="0" value="0"/>
+					<parameter name="Bottom" id="3" flags="80" default="0" value="0"/>
+					<parameter name="Top" id="4" flags="80" default="0" value="0"/>
+				</parameter>
+				<parameter name="Timing" id="233" flags="4178">
+					<foldFlags>4</foldFlags>
+				</parameter>
+				<parameter name="Media" id="300" flags="65616" default="0" value="10030"/>
+				<parameter name="Page Number" id="301" flags="82" default="0" value="0"/>
+				<parameter name="Background Color" id="302" flags="69714">
+					<foldFlags>15</foldFlags>
+					<parameter name="Red" id="1" flags="80" default="1" value="1"/>
+					<parameter name="Green" id="2" flags="80" default="1" value="1"/>
+					<parameter name="Blue" id="3" flags="80" default="1" value="1"/>
+					<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+					<parameter name="Opacity" id="4" flags="80" default="1" value="1"/>
+				</parameter>
+				<parameter name="Speed" id="309" flags="4259920" default="1" value="1"/>
+				<parameter name="Reverse" id="310" flags="4259920" default="0" value="0"/>
+				<parameter name="Time Remap" id="303" flags="65618" default="0" value="0"/>
+				<parameter name="Retime Value" id="304" flags="131410">
+					<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<keypoint interpolation="1" flags="32">
+							<time>0</time>
+							<value>1</value>
+							<normal>0</normal>
+							<inputTangentTime>-80</inputTangentTime>
+							<inputTangentValue>-80.00000000000001</inputTangentValue>
+							<outputTangentTime>80</outputTangentTime>
+							<outputTangentValue>80.00000000000001</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="32">
+							<time>240</time>
+							<value>241</value>
+							<normal>0</normal>
+							<inputTangentTime>-80</inputTangentTime>
+							<inputTangentValue>-80.00000000000001</inputTangentValue>
+							<outputTangentTime>80</outputTangentTime>
+							<outputTangentValue>80.00000000000001</outputTangentValue>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Retime Value Cache" id="319" flags="131154">
+					<curve type="1" default="1" value="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<keypoint interpolation="1" flags="160">
+							<time>0</time>
+							<value>1</value>
+							<normal>0</normal>
+							<inputTangentTime>-80</inputTangentTime>
+							<inputTangentValue>-80.00000000000001</inputTangentValue>
+							<outputTangentTime>80</outputTangentTime>
+							<outputTangentValue>80.00000000000001</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="160">
+							<time>240</time>
+							<value>241</value>
+							<normal>0</normal>
+							<inputTangentTime>-80</inputTangentTime>
+							<inputTangentValue>-80.00000000000001</inputTangentValue>
+							<outputTangentTime>80</outputTangentTime>
+							<outputTangentValue>80.00000000000001</outputTangentValue>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Frame Blending" id="305" flags="65618" default="0" value="0"/>
+				<parameter name="End Condition" id="306" flags="65618" default="0" value="0"/>
+				<parameter name="End Duration" id="307" flags="32850" default="0" value="0"/>
+				<parameter name="Duration Cache" id="320" flags="82" default="0" value="240"/>
+				<parameter name="Layer" id="308" flags="65618" default="0" value="0"/>
+			</parameter>
+			<parameter name="Object" id="2" flags="4176">
+				<parameter name="Drop Zone" id="311" flags="208" default="0" value="0"/>
+				<parameter name="Fit" id="317" flags="65616" default="0" value="0"/>
+				<parameter name="Replaced" id="312" flags="82" default="0" value="0"/>
+				<parameter name="Fit Factor" id="318" flags="4178">
+					<foldFlags>15</foldFlags>
+					<parameter name="X" id="1" flags="80" default="1" value="1"/>
+					<parameter name="Y" id="2" flags="80" default="1" value="1"/>
+				</parameter>
+				<parameter name="Clear" id="315" flags="65616" default="0" value="0"/>
+				<parameter name="Width" id="313" flags="82" default="0" value="400"/>
+				<parameter name="Height" id="314" flags="82" default="0" value="400"/>
+			</parameter>
+		</scenenode>
+		<scenenode name="TripodMount" id="10033" factoryID="1" version="4">
+			<validTracks>0</validTracks>
+			<override>0</override>
+			<aspectRatio>1</aspectRatio>
+			<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+			<flags>0</flags>
+			<timing in="0" out="239" offset="0"/>
+			<foldFlags>16384</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="4112">
+				<parameter name="Transform" id="100" flags="4112">
+					<parameter name="Position" id="101" flags="4112">
+						<foldFlags>11</foldFlags>
+						<parameter name="X" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="16" default="0" value="319"/>
+						<parameter name="Z" id="3" flags="16" default="0" value="0"/>
+					</parameter>
+					<parameter name="Rotation" id="109" flags="4112">
+						<foldFlags>11</foldFlags>
+						<parameter name="X" id="1" flags="16" default="0" value="1.570796326794897"/>
+						<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+						<parameter name="Z" id="3" flags="16" default="0" value="0"/>
+						<parameter name="Animate" id="4" flags="65536" default="0" value="0"/>
+					</parameter>
+					<parameter name="Scale" id="105" flags="4112">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="16" default="1" value="0.38"/>
+						<parameter name="Y" id="2" flags="16" default="1" value="0.38"/>
+						<parameter name="Z" id="3" flags="16" default="1" value="0.38"/>
+					</parameter>
+					<parameter name="Shear" id="106" flags="4112">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="16" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+					</parameter>
+					<parameter name="Anchor Point" id="107" flags="4112">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="16" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+						<parameter name="Z" id="3" flags="16" default="0" value="0"/>
+					</parameter>
+					<parameter name="Rotation" id="102" flags="18" default="0" value="0"/>
+				</parameter>
+				<parameter name="Blending" id="200" flags="4112">
+					<parameter name="Opacity" id="202" flags="16" default="1" value="1"/>
+					<parameter name="Blend Mode" id="203" flags="65552" default="0" value="0"/>
+					<parameter name="Preserve Opacity" id="217" flags="16" default="0" value="0"/>
+					<parameter name="Casts Reflection" id="236" flags="65552" default="0" value="0"/>
+				</parameter>
+				<parameter name="Lighting" id="230" flags="4112">
+					<foldFlags>15</foldFlags>
+					<parameter name="Shading" id="230" flags="65552" default="0" value="0"/>
+					<parameter name="Highlights" id="231" flags="36880">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Ambient Color" id="1" flags="4114">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="16" default="1" value="1"/>
+							<parameter name="Green" id="2" flags="16" default="1" value="1"/>
+							<parameter name="Blue" id="3" flags="16" default="1" value="1"/>
+							<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+							<parameter name="Opacity" id="4" flags="16" default="1" value="1"/>
+						</parameter>
+						<parameter name="Ambient Index" id="2" flags="18" default="0" value="0"/>
+						<parameter name="Diffuse Color" id="3" flags="4114">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="16" default="1" value="1"/>
+							<parameter name="Green" id="2" flags="16" default="1" value="1"/>
+							<parameter name="Blue" id="3" flags="16" default="1" value="1"/>
+							<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+							<parameter name="Opacity" id="4" flags="16" default="1" value="1"/>
+						</parameter>
+						<parameter name="Diffuse Index" id="4" flags="18" default="0" value="0"/>
+						<parameter name="Specular Color" id="5" flags="4114">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="16" default="1" value="1"/>
+							<parameter name="Green" id="2" flags="16" default="1" value="1"/>
+							<parameter name="Blue" id="3" flags="16" default="1" value="1"/>
+							<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+							<parameter name="Opacity" id="4" flags="16" default="1" value="1"/>
+						</parameter>
+						<parameter name="Specular Index" id="6" flags="18" default="0" value="0"/>
+						<parameter name="Emission Color" id="7" flags="4114">
+							<foldFlags>15</foldFlags>
+							<parameter name="Red" id="1" flags="16" default="0" value="0"/>
+							<parameter name="Green" id="2" flags="16" default="0" value="0"/>
+							<parameter name="Blue" id="3" flags="16" default="0" value="0"/>
+							<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+							<parameter name="Opacity" id="4" flags="16" default="0" value="0"/>
+						</parameter>
+						<parameter name="Shininess" id="8" flags="16" default="50" value="50"/>
+					</parameter>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="4112">
+					<foldFlags>15</foldFlags>
+					<parameter name="Cast Shadows" id="1" flags="16" default="1" value="1"/>
+					<parameter name="Receive Shadows" id="2" flags="16" default="1" value="1"/>
+					<parameter name="Shadows Only" id="3" flags="16" default="0" value="0"/>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="36880">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Reflectivity" id="228" flags="16" default="0.8" value="0.8"/>
+					<parameter name="Blur Amount" id="229" flags="16" default="0" value="0"/>
+					<parameter name="Falloff" id="224" flags="36880">
+						<foldFlags>131087</foldFlags>
+						<parameter name="Begin Distance" id="225" flags="16" default="0" value="0"/>
+						<parameter name="End Distance" id="226" flags="16" default="500" value="500"/>
+						<parameter name="Exponent" id="235" flags="16" default="1.8" value="1.8"/>
+					</parameter>
+					<parameter name="Blend Mode" id="227" flags="65552" default="0" value="0"/>
+				</parameter>
+				<parameter name="Drop Shadow" id="208" flags="36880">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Color" id="210" flags="4112">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="16" default="0" value="0"/>
+						<parameter name="Green" id="2" flags="16" default="0" value="0"/>
+						<parameter name="Blue" id="3" flags="16" default="0" value="0"/>
+						<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+					</parameter>
+					<parameter name="Opacity" id="211" flags="16" default="0.75" value="0.75"/>
+					<parameter name="Blur" id="213" flags="16" default="5" value="5"/>
+					<parameter name="Distance" id="212" flags="16" default="5" value="5"/>
+					<parameter name="Angle" id="214" flags="16" default="5.497787143782138" value="5.497787143782138"/>
+					<parameter name="Fixed Source" id="232" flags="16" default="0" value="0"/>
+				</parameter>
+				<parameter name="Four Corner" id="207" flags="36864">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Bottom Left" id="1" flags="4112">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="16" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+					</parameter>
+					<parameter name="Bottom Right" id="2" flags="4112">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="16" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+					</parameter>
+					<parameter name="Top Right" id="3" flags="4112">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="16" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+					</parameter>
+					<parameter name="Top Left" id="4" flags="4112">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="16" default="0" value="0"/>
+						<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+					</parameter>
+				</parameter>
+				<parameter name="Crop" id="216" flags="36880">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Left" id="1" flags="16" default="0" value="0"/>
+					<parameter name="Right" id="2" flags="16" default="0" value="0"/>
+					<parameter name="Bottom" id="3" flags="16" default="0" value="0"/>
+					<parameter name="Top" id="4" flags="16" default="0" value="0"/>
+				</parameter>
+				<parameter name="Timing" id="233" flags="4114">
+					<foldFlags>4</foldFlags>
+				</parameter>
+				<parameter name="Media" id="300" flags="65552" default="0" value="10030"/>
+				<parameter name="Page Number" id="301" flags="18" default="0" value="0"/>
+				<parameter name="Background Color" id="302" flags="69650">
+					<foldFlags>15</foldFlags>
+					<parameter name="Red" id="1" flags="16" default="1" value="1"/>
+					<parameter name="Green" id="2" flags="16" default="1" value="1"/>
+					<parameter name="Blue" id="3" flags="16" default="1" value="1"/>
+					<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+					<parameter name="Opacity" id="4" flags="16" default="1" value="1"/>
+				</parameter>
+				<parameter name="Speed" id="309" flags="4259856" default="1" value="1"/>
+				<parameter name="Reverse" id="310" flags="4259856" default="0" value="0"/>
+				<parameter name="Time Remap" id="303" flags="65554" default="0" value="0"/>
+				<parameter name="Retime Value" id="304" flags="131346">
+					<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<keypoint interpolation="1" flags="32">
+							<time>0</time>
+							<value>1</value>
+							<normal>0</normal>
+							<inputTangentTime>-80</inputTangentTime>
+							<inputTangentValue>-80.00000000000001</inputTangentValue>
+							<outputTangentTime>80</outputTangentTime>
+							<outputTangentValue>80.00000000000001</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="32">
+							<time>240</time>
+							<value>241</value>
+							<normal>0</normal>
+							<inputTangentTime>-80</inputTangentTime>
+							<inputTangentValue>-80.00000000000001</inputTangentValue>
+							<outputTangentTime>80</outputTangentTime>
+							<outputTangentValue>80.00000000000001</outputTangentValue>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Retime Value Cache" id="319" flags="131090">
+					<curve type="1" default="1" value="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<keypoint interpolation="1" flags="160">
+							<time>0</time>
+							<value>1</value>
+							<normal>0</normal>
+							<inputTangentTime>-80</inputTangentTime>
+							<inputTangentValue>-80.00000000000001</inputTangentValue>
+							<outputTangentTime>80</outputTangentTime>
+							<outputTangentValue>80.00000000000001</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="160">
+							<time>240</time>
+							<value>241</value>
+							<normal>0</normal>
+							<inputTangentTime>-80</inputTangentTime>
+							<inputTangentValue>-80.00000000000001</inputTangentValue>
+							<outputTangentTime>80</outputTangentTime>
+							<outputTangentValue>80.00000000000001</outputTangentValue>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Frame Blending" id="305" flags="65554" default="0" value="0"/>
+				<parameter name="End Condition" id="306" flags="65554" default="0" value="0"/>
+				<parameter name="End Duration" id="307" flags="32786" default="0" value="0"/>
+				<parameter name="Duration Cache" id="320" flags="18" default="0" value="240"/>
+				<parameter name="Layer" id="308" flags="65554" default="0" value="0"/>
+			</parameter>
+			<parameter name="Object" id="2" flags="4112">
+				<parameter name="Drop Zone" id="311" flags="144" default="0" value="0"/>
+				<parameter name="Fit" id="317" flags="65552" default="0" value="0"/>
+				<parameter name="Replaced" id="312" flags="18" default="0" value="0"/>
+				<parameter name="Fit Factor" id="318" flags="4114">
+					<foldFlags>15</foldFlags>
+					<parameter name="X" id="1" flags="16" default="1" value="1"/>
+					<parameter name="Y" id="2" flags="16" default="1" value="1"/>
+				</parameter>
+				<parameter name="Clear" id="315" flags="65552" default="0" value="0"/>
+				<parameter name="Width" id="313" flags="18" default="0" value="400"/>
+				<parameter name="Height" id="314" flags="18" default="0" value="400"/>
+			</parameter>
+		</scenenode>
+		<override>0</override>
+		<aspectRatio>1</aspectRatio>
+		<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+		<flags>0</flags>
+		<timing in="0" out="239" offset="0"/>
+		<foldFlags>1</foldFlags>
+		<baseFlags>268959761</baseFlags>
+		<parameter name="Properties" id="1" flags="4112">
+			<parameter name="Transform" id="100" flags="4112">
+				<parameter name="Position" id="101" flags="4112">
+					<foldFlags>11</foldFlags>
+					<parameter name="X" id="1" flags="16" default="0" value="0"/>
+					<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+					<parameter name="Z" id="3" flags="80" default="0" value="0"/>
+				</parameter>
+				<parameter name="Rotation" id="109" flags="4112">
+					<foldFlags>11</foldFlags>
+					<parameter name="X" id="1" flags="16" default="0" value="0"/>
+					<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+					<parameter name="Z" id="3" flags="16" default="0" value="0"/>
+					<parameter name="Animate" id="4" flags="65536" default="0" value="0"/>
+				</parameter>
+				<parameter name="Scale" id="105" flags="4176">
+					<foldFlags>15</foldFlags>
+					<parameter name="X" id="1" flags="80" default="1" value="1"/>
+					<parameter name="Y" id="2" flags="80" default="1" value="1"/>
+					<parameter name="Z" id="3" flags="80" default="1" value="1"/>
+				</parameter>
+				<parameter name="Shear" id="106" flags="4112">
+					<foldFlags>15</foldFlags>
+					<parameter name="X" id="1" flags="16" default="0" value="0"/>
+					<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+				</parameter>
+				<parameter name="Anchor Point" id="107" flags="4112">
+					<foldFlags>15</foldFlags>
+					<parameter name="X" id="1" flags="16" default="0" value="0"/>
+					<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+					<parameter name="Z" id="3" flags="16" default="0" value="0"/>
+				</parameter>
+				<parameter name="Rotation" id="102" flags="18" default="0" value="0"/>
+			</parameter>
+			<parameter name="Blending" id="200" flags="4112">
+				<parameter name="Opacity" id="202" flags="2064" default="1" value="1"/>
+				<parameter name="Blend Mode" id="203" flags="67600" default="34" value="34"/>
+				<parameter name="Preserve Opacity" id="217" flags="2064" default="0" value="0"/>
+				<parameter name="Casts Reflection" id="236" flags="65552" default="0" value="0"/>
+			</parameter>
+			<parameter name="Lighting" id="230" flags="4112">
+				<foldFlags>15</foldFlags>
+				<parameter name="Shading" id="230" flags="65552" default="0" value="0"/>
+				<parameter name="Highlights" id="231" flags="36882">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Ambient Color" id="1" flags="4114">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="16" default="1" value="1"/>
+						<parameter name="Green" id="2" flags="16" default="1" value="1"/>
+						<parameter name="Blue" id="3" flags="16" default="1" value="1"/>
+						<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+						<parameter name="Opacity" id="4" flags="16" default="1" value="1"/>
+					</parameter>
+					<parameter name="Ambient Index" id="2" flags="18" default="0" value="0"/>
+					<parameter name="Diffuse Color" id="3" flags="4114">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="16" default="1" value="1"/>
+						<parameter name="Green" id="2" flags="16" default="1" value="1"/>
+						<parameter name="Blue" id="3" flags="16" default="1" value="1"/>
+						<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+						<parameter name="Opacity" id="4" flags="16" default="1" value="1"/>
+					</parameter>
+					<parameter name="Diffuse Index" id="4" flags="18" default="0" value="0"/>
+					<parameter name="Specular Color" id="5" flags="4114">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="16" default="1" value="1"/>
+						<parameter name="Green" id="2" flags="16" default="1" value="1"/>
+						<parameter name="Blue" id="3" flags="16" default="1" value="1"/>
+						<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+						<parameter name="Opacity" id="4" flags="16" default="1" value="1"/>
+					</parameter>
+					<parameter name="Specular Index" id="6" flags="18" default="0" value="0"/>
+					<parameter name="Emission Color" id="7" flags="4114">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="16" default="0" value="0"/>
+						<parameter name="Green" id="2" flags="16" default="0" value="0"/>
+						<parameter name="Blue" id="3" flags="16" default="0" value="0"/>
+						<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+						<parameter name="Opacity" id="4" flags="16" default="0" value="0"/>
+					</parameter>
+					<parameter name="Shininess" id="8" flags="16" default="50" value="50"/>
+				</parameter>
+			</parameter>
+			<parameter name="Shadows" id="234" flags="4114">
+				<foldFlags>15</foldFlags>
+				<parameter name="Cast Shadows" id="1" flags="16" default="1" value="1"/>
+				<parameter name="Receive Shadows" id="2" flags="16" default="1" value="1"/>
+				<parameter name="Shadows Only" id="3" flags="16" default="0" value="0"/>
+			</parameter>
+			<parameter name="Reflection" id="223" flags="36880">
+				<foldFlags>131087</foldFlags>
+				<parameter name="Reflectivity" id="228" flags="16" default="0.8" value="0.8"/>
+				<parameter name="Blur Amount" id="229" flags="16" default="0" value="0"/>
+				<parameter name="Falloff" id="224" flags="36880">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Begin Distance" id="225" flags="16" default="0" value="0"/>
+					<parameter name="End Distance" id="226" flags="16" default="500" value="500"/>
+					<parameter name="Exponent" id="235" flags="16" default="1.8" value="1.8"/>
+				</parameter>
+				<parameter name="Blend Mode" id="227" flags="65552" default="0" value="0"/>
+			</parameter>
+			<parameter name="Drop Shadow" id="208" flags="38930">
+				<foldFlags>131087</foldFlags>
+				<parameter name="Color" id="210" flags="4112">
+					<foldFlags>15</foldFlags>
+					<parameter name="Red" id="1" flags="16" default="0" value="0"/>
+					<parameter name="Green" id="2" flags="16" default="0" value="0"/>
+					<parameter name="Blue" id="3" flags="16" default="0" value="0"/>
+					<parameter name="Gamma" id="10" flags="18" default="2.200000047683716" value="2.2"/>
+				</parameter>
+				<parameter name="Opacity" id="211" flags="16" default="0.75" value="0.75"/>
+				<parameter name="Blur" id="213" flags="16" default="5" value="5"/>
+				<parameter name="Distance" id="212" flags="16" default="5" value="5"/>
+				<parameter name="Angle" id="214" flags="16" default="5.497787143782138" value="5.497787143782138"/>
+				<parameter name="Fixed Source" id="232" flags="16" default="0" value="0"/>
+			</parameter>
+			<parameter name="Four Corner" id="207" flags="38914">
+				<foldFlags>131087</foldFlags>
+				<parameter name="Bottom Left" id="1" flags="4112">
+					<foldFlags>15</foldFlags>
+					<parameter name="X" id="1" flags="16" default="0" value="0"/>
+					<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+				</parameter>
+				<parameter name="Bottom Right" id="2" flags="4112">
+					<foldFlags>15</foldFlags>
+					<parameter name="X" id="1" flags="16" default="0" value="0"/>
+					<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+				</parameter>
+				<parameter name="Top Right" id="3" flags="4112">
+					<foldFlags>15</foldFlags>
+					<parameter name="X" id="1" flags="16" default="0" value="0"/>
+					<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+				</parameter>
+				<parameter name="Top Left" id="4" flags="4112">
+					<foldFlags>15</foldFlags>
+					<parameter name="X" id="1" flags="16" default="0" value="0"/>
+					<parameter name="Y" id="2" flags="16" default="0" value="0"/>
+				</parameter>
+			</parameter>
+			<parameter name="Crop" id="216" flags="38930">
+				<foldFlags>131087</foldFlags>
+				<parameter name="Left" id="1" flags="16" default="0" value="0"/>
+				<parameter name="Right" id="2" flags="16" default="0" value="0"/>
+				<parameter name="Bottom" id="3" flags="16" default="0" value="0"/>
+				<parameter name="Top" id="4" flags="16" default="0" value="0"/>
+			</parameter>
+			<parameter name="Timing" id="233" flags="4114">
+				<foldFlags>4</foldFlags>
+			</parameter>
+		</parameter>
+		<parameter name="Object" id="2" flags="4112">
+			<parameter name="Type" id="307" flags="65552" default="1" value="1"/>
+			<parameter name="Fixed Resolution" id="301" flags="2066" default="0" value="0"/>
+			<parameter name="Fixed Width" id="302" flags="22" default="1280" value="1280"/>
+			<parameter name="Fixed Height" id="303" flags="22" default="720" value="720"/>
+			<parameter name="Flatten" id="311" flags="16" default="0" value="0"/>
+			<parameter name="Layer Order" id="305" flags="16" default="0" value="0"/>
+			<parameter name="Aperture Width" id="312" flags="18" default="1280" value="1280"/>
+			<parameter name="Aperture Height" id="313" flags="18" default="720" value="720"/>
+			<parameter name="Hidden Channel" id="314" flags="18" default="4" value="4"/>
+		</parameter>
+	</layer>
+
+	<footage name="Media Layer" id="10004">
+		<clip name="TripodMount" id="10030">
+			<pathURL>file://localhost/Users/Zack/Movies/YFIAS/~Ep2/Studio/TripodMount.png</pathURL>
+			<relativeURL>TripodMount.png</relativeURL>
+			<missingWidth>400</missingWidth>
+			<missingHeight>400</missingHeight>
+			<missingDuration>0.03333333333333333</missingDuration>
+			<creationDuration>1</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0" out="0" offset="0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="4176"/>
+			<parameter name="Object" id="2" flags="4176">
+				<parameter name="Alpha Type" id="100" flags="4176">
+					<parameter name="Alpha Type" id="101" flags="65600" default="0" value="0"/>
+					<parameter name="Alpha Color" id="102" flags="4160">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+						<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+						<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+					</parameter>
+				</parameter>
+				<parameter name="Invert Alpha" id="103" flags="64" default="0" value="0"/>
+				<parameter name="Pixel Aspect Ratio" id="104" flags="64" default="1" value="1"/>
+				<parameter name="Field Order" id="105" flags="65600" default="0" value="0"/>
+				<parameter name="3:2 Pulldown" id="106" flags="65600" default="0" value="0"/>
+				<parameter name="Frame Rate" id="107" flags="64" default="0" value="30"/>
+				<parameter name="Fixed Resolution" id="113" flags="66" default="1" value="1"/>
+				<parameter name="Fixed Width" id="114" flags="64" default="400" value="400"/>
+				<parameter name="Fixed Height" id="115" flags="64" default="400" value="400"/>
+				<parameter name="Use Background Color" id="116" flags="66" default="0" value="0"/>
+				<parameter name="Background Color" id="117" flags="36930">
+					<foldFlags>15</foldFlags>
+					<parameter name="Red" id="1" flags="32848" default="1" value="1"/>
+					<parameter name="Green" id="2" flags="32848" default="1" value="1"/>
+					<parameter name="Blue" id="3" flags="32848" default="1" value="1"/>
+					<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+				</parameter>
+				<parameter name="Crop" id="112" flags="4160">
+					<foldFlags>15</foldFlags>
+					<parameter name="Left" id="1" flags="80" default="0" value="0"/>
+					<parameter name="Right" id="2" flags="80" default="0" value="0"/>
+					<parameter name="Bottom" id="3" flags="80" default="0" value="0"/>
+					<parameter name="Top" id="4" flags="80" default="0" value="0"/>
+				</parameter>
+				<parameter name="Replace Media File" id="118" flags="65616" default="0" value="0"/>
+				<parameter name="OpenEXR" id="119" flags="4162">
+					<parameter name="Exposure" id="120" flags="80" default="0" value="0"/>
+					<parameter name="Defog" id="121" flags="80" default="0" value="0"/>
+					<parameter name="KneeLow" id="122" flags="80" default="0" value="0"/>
+					<parameter name="KneeHigh" id="123" flags="80" default="5" value="5"/>
+				</parameter>
+				<parameter name="Gamma" id="124" flags="64" default="2.200000047683716" value="1.8"/>
+			</parameter>
+		</clip>
+		<clip name="TripodLeg" id="10003">
+			<pathURL>file://localhost/Users/Zack/Movies/YFIAS/~Ep2/Studio/TripodLeg.png</pathURL>
+			<relativeURL>TripodLeg.png</relativeURL>
+			<missingWidth>64</missingWidth>
+			<missingHeight>640</missingHeight>
+			<missingDuration>0.03333333333333333</missingDuration>
+			<creationDuration>1</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0" out="0" offset="0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="4176"/>
+			<parameter name="Object" id="2" flags="4176">
+				<parameter name="Alpha Type" id="100" flags="4176">
+					<parameter name="Alpha Type" id="101" flags="65600" default="0" value="0"/>
+					<parameter name="Alpha Color" id="102" flags="4160">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="80" default="0" value="0"/>
+						<parameter name="Green" id="2" flags="80" default="0" value="0"/>
+						<parameter name="Blue" id="3" flags="80" default="0" value="0"/>
+						<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+					</parameter>
+				</parameter>
+				<parameter name="Invert Alpha" id="103" flags="64" default="0" value="0"/>
+				<parameter name="Pixel Aspect Ratio" id="104" flags="64" default="1" value="1"/>
+				<parameter name="Field Order" id="105" flags="65600" default="0" value="0"/>
+				<parameter name="3:2 Pulldown" id="106" flags="65600" default="0" value="0"/>
+				<parameter name="Frame Rate" id="107" flags="64" default="0" value="30"/>
+				<parameter name="Fixed Resolution" id="113" flags="66" default="1" value="1"/>
+				<parameter name="Fixed Width" id="114" flags="64" default="64" value="64"/>
+				<parameter name="Fixed Height" id="115" flags="64" default="640" value="640"/>
+				<parameter name="Use Background Color" id="116" flags="66" default="0" value="0"/>
+				<parameter name="Background Color" id="117" flags="36930">
+					<foldFlags>15</foldFlags>
+					<parameter name="Red" id="1" flags="32848" default="1" value="1"/>
+					<parameter name="Green" id="2" flags="32848" default="1" value="1"/>
+					<parameter name="Blue" id="3" flags="32848" default="1" value="1"/>
+					<parameter name="Gamma" id="10" flags="82" default="2.200000047683716" value="2.2"/>
+				</parameter>
+				<parameter name="Crop" id="112" flags="4160">
+					<foldFlags>15</foldFlags>
+					<parameter name="Left" id="1" flags="80" default="0" value="0"/>
+					<parameter name="Right" id="2" flags="80" default="0" value="0"/>
+					<parameter name="Bottom" id="3" flags="80" default="0" value="0"/>
+					<parameter name="Top" id="4" flags="80" default="0" value="0"/>
+				</parameter>
+				<parameter name="Replace Media File" id="118" flags="65616" default="0" value="0"/>
+				<parameter name="OpenEXR" id="119" flags="4162">
+					<parameter name="Exposure" id="120" flags="80" default="0" value="0"/>
+					<parameter name="Defog" id="121" flags="80" default="0" value="0"/>
+					<parameter name="KneeLow" id="122" flags="80" default="0" value="0"/>
+					<parameter name="KneeHigh" id="123" flags="80" default="5" value="5"/>
+				</parameter>
+				<parameter name="Gamma" id="124" flags="64" default="2.200000047683716" value="1.8"/>
+			</parameter>
+		</clip>
+		<flags>0</flags>
+		<timing in="0" out="0" offset="0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>524304</baseFlags>
+		<parameter name="Properties" id="1" flags="4112"/>
+		<parameter name="Object" id="2" flags="4112"/>
+	</footage>
+</scene>
+
+</ozml>
